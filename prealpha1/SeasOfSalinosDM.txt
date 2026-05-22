@@ -6,7 +6,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CA01 Daretti's Crewmate.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CA01 Daretti's Crewmate.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Artifact Creature — Snake Construct ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CA02 Benthic Probe.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CA02 Benthic Probe.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Artifact",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CA03 Seascout's Wayfinder.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CA03 Seascout's Wayfinder.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Artifact",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CA04 Morphic Glass.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CA04 Morphic Glass.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Artifact",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CA05 Heartmage's Conch.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CA05 Heartmage's Conch.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Creature — Leech ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB01 Blackwater Leech.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB01 Blackwater Leech.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Creature — Salamander Rogue ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB03 City Infiltrator.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB03 City Infiltrator.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "Creature — Crab ",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB02 Scavenging Scuttler.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB02 Scavenging Scuttler.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Creature — Shark Warlock ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB06 Razortooth Corruptor.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB06 Razortooth Corruptor.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Creature — Salamander Rogue ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB05 Undercity Junkpicker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB05 Undercity Junkpicker.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Creature — Plant Wizard Horror ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB03 Tangled Graftmage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB03 Tangled Graftmage.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Creature — Salamander Leech Wizard ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB07 Bonded Vellomancer.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB07 Bonded Vellomancer.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Creature — Plant Druid ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB08 Kulteiv Rottender.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB08 Kulteiv Rottender.png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Creature — Salamander Warlock ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB09 Blackwater Banehand.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB09 Blackwater Banehand.png"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"type": "Creature — Nightmare Leviathan ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB10 Rising Deepfiend.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB10 Rising Deepfiend.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Creature — Zombie Shark Berserker ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB11 Razortooth Deathjaw.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB11 Razortooth Deathjaw.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Instant",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB12 Depth Crush.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB12 Depth Crush.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB13 Scrape the Muck.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB13 Scrape the Muck.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Artifact",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB14 Seascour Altar.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB14 Seascour Altar.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB15 Caught In The Act.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB15 Caught In The Act.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Creature — Whale Druid ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG01 Titans' Herald.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG01 Titans' Herald.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Creature — Bear Otter ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG03 Kelpstalker Seabear.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG03 Kelpstalker Seabear.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Creature — Lizard ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG07 Surfacing Rockwalla.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG07 Surfacing Rockwalla.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Creature — Cat Fish ",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG04 Tidemalkin.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG04 Tidemalkin.png"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"type": "Creature — Plant Warrior ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG09 Kelp-Garden Warden.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG09 Kelp-Garden Warden.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG06 Gruesome Landbeast.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG06 Gruesome Landbeast.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Creature — Squid Crab Chimera  ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG05 Chimeric Enigma.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG05 Chimeric Enigma.png"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 			"type": "Creature — Elemental Octopus ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG02 Spawn of Onax.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG02 Spawn of Onax.png"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 			"type": "Creature — Goat Lobster ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG08 Capricrustacean.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG08 Capricrustacean.png"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"type": "Creature — Crocodile ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG10 Thrashing Crushjaw.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG10 Thrashing Crushjaw.png"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 			"type": "Creature — Elemental Leviathan ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG11 Lifecharged Leviathan.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG11 Lifecharged Leviathan.png"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG12 Prey Upon.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG12 Prey Upon.png"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG13 Primordial Power.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG13 Primordial Power.png"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG14 Kelptender's Rod.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG14 Kelptender's Rod.png"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG11 Symbiotic Shield.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG11 Symbiotic Shield.png"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CG15 Nourishing Currents.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CG15 Nourishing Currents.png"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Abyssal Stronghold.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Abyssal Stronghold.png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Creature — Shark Berserker ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR01 Modal 1-drop Shark.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR01 Modal 1-drop Shark.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Creature — Goblin Shark Shaman ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR02 Seascour Deepspeaker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR02 Seascour Deepspeaker.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Artifact Creature — Treasure Fish ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR03 Glittering Carp.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR03 Glittering Carp.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Creature — Crab ",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR04 Ventfeeder.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR04 Ventfeeder.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Creature — Hellion ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR05 Wild Hellion.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR05 Wild Hellion.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"type": "Creature — Goblin Shark Shaman ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR06 Seascour Channeler.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR06 Seascour Channeler.png"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 			"type": "Enchantment",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR07 Rift of Power.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR07 Rift of Power.png"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR08 Daretti's Seascraper.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR08 Daretti's Seascraper.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"type": "Creature — Lobster Dragon ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR09 Hoard Lurker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR09 Hoard Lurker.png"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR10 Unleash the Devastators.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR10 Unleash the Devastators.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Sorcery",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR10 Magma Lance.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR10 Magma Lance.png"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR12 Abyssal Lash.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR12 Abyssal Lash.png"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR13 Bloody Madness.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR13 Bloody Madness.png"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR15 Sunken Treasure.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR15 Sunken Treasure.png"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR14 Forked Bolt.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR14 Forked Bolt.png"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Creature — Merfolk Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU01 Scholar of the Abyss.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU01 Scholar of the Abyss.png"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Creature — Salamander Rogue ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU02 Amphin Pickpocket.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU02 Amphin Pickpocket.png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Creature — Wall ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU03 Lexos Coral.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU03 Lexos Coral.png"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Creature — Merfolk Rogue ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU04 Backstreets Sapper.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU04 Backstreets Sapper.png"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Creature — Merfolk Rebel Wizard ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU05 Rebel Geysermage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU05 Rebel Geysermage.png"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Creature — Merfolk Wizard ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU06 Pelathan Heartmage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU06 Pelathan Heartmage.png"
 			}
 		},
 		{
@@ -586,7 +586,7 @@
 			"type": "Creature — Whale ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU07 Breaching Loftwhale.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU07 Breaching Loftwhale.png"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			"type": "Creature — Kraken ",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU09 Spellbender Kraken.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU09 Spellbender Kraken.png"
 			}
 		},
 		{
@@ -606,7 +606,7 @@
 			"type": "Creature — Urchin Illusion ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU10 Conjured Urchins.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU10 Conjured Urchins.png"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU11 Flowbend.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU11 Flowbend.png"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU12 Reshape Essence.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU12 Reshape Essence.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU13 Sinking Feeling.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU13 Sinking Feeling.png"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU10 Abyssal Secrets.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU10 Abyssal Secrets.png"
 			}
 		},
 		{
@@ -656,7 +656,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU15 Thirst For Power.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU15 Thirst For Power.png"
 			}
 		},
 		{
@@ -666,7 +666,7 @@
 			"type": "Creature — Merfolk Wizard Soldier ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU08 Riptide Centurion.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU08 Riptide Centurion.png"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 			"type": "Creature — Merfolk Soldier ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW01 Pelathan Shieldmate.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW01 Pelathan Shieldmate.png"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"type": "Creature — Merfolk Citizen ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW02 Palace Gardener.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW02 Palace Gardener.png"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"type": "Creature — Brushwagg Fish ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW03 Pufferwagg.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW03 Pufferwagg.png"
 			}
 		},
 		{
@@ -706,7 +706,7 @@
 			"type": "Creature — Fish ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW04 Soaring Skyfin.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW04 Soaring Skyfin.png"
 			}
 		},
 		{
@@ -716,7 +716,7 @@
 			"type": "Creature — Merfolk Scout ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW05 Ruins Explorer.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW05 Ruins Explorer.png"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 			"type": "Creature — Horse Fish ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW08 Loyal Hippocamp.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW08 Loyal Hippocamp.png"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			"type": "Creature — Lobster ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW07 Outskirts Bottomfeeder.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW07 Outskirts Bottomfeeder.png"
 			}
 		},
 		{
@@ -746,7 +746,7 @@
 			"type": "Creature — Slug Beast ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW09 Flourishing Gastrobranchs.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW09 Flourishing Gastrobranchs.png"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 			"type": "Creature — Pangolin Seal Beast ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW06 Pelathan Warbeasts.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW06 Pelathan Warbeasts.png"
 			}
 		},
 		{
@@ -766,7 +766,7 @@
 			"type": "Creature — Fish ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW10 Seaglow Marlin.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW10 Seaglow Marlin.png"
 			}
 		},
 		{
@@ -776,7 +776,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW12 Underdog's Gambit.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW12 Underdog's Gambit.png"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 			"type": "Creature — Spirit Sponge ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW11 Healer's Soulsponge.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW11 Healer's Soulsponge.png"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW13 Blessing of Atlaenas.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW13 Blessing of Atlaenas.png"
 			}
 		},
 		{
@@ -806,7 +806,7 @@
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW14 Invigorating Charge.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW14 Invigorating Charge.png"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 			"type": "Instant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW15 Commodify.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW15 Commodify.png"
 			}
 		},
 		{
@@ -826,7 +826,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Forest.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Forest.png"
 			}
 		},
 		{
@@ -836,7 +836,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Island.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Island.png"
 			}
 		},
 		{
@@ -846,7 +846,7 @@
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MA01 The Tidal Heart.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MA01 The Tidal Heart.png"
 			}
 		},
 		{
@@ -856,7 +856,7 @@
 			"type": "Legendary Artifact — Vehicle ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MA02 Ingenuity, Daretti's Vessel.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MA02 Ingenuity, Daretti's Vessel.png"
 			}
 		},
 		{
@@ -866,7 +866,7 @@
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MB02 Painweaving.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MB02 Painweaving.png"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MG01 Call the Ancients.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MG01 Call the Ancients.png"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			"type": "Creature — Fish Hydra ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MG02 Ravager of the Reef.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MG02 Ravager of the Reef.png"
 			}
 		},
 		{
@@ -896,7 +896,7 @@
 			"type": "Legendary Creature — Goblin Artificer ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MR01 Daretti, Submersible Schemer.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MR01 Daretti, Submersible Schemer.png"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MR02 Cataclysmic Eruption.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MR02 Cataclysmic Eruption.png"
 			}
 		},
 		{
@@ -916,7 +916,7 @@
 			"type": "Legendary Creature — Whale Wizard ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MU01 Bevaihn, High Flowmage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MU01 Bevaihn, High Flowmage.png"
 			}
 		},
 		{
@@ -926,7 +926,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MU02 Mass Evolution.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MU02 Mass Evolution.png"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"type": "Legendary Creature — Elder Whale ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MW01 Irdus Al, the White Whale.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MW01 Irdus Al, the White Whale.png"
 			}
 		},
 		{
@@ -946,7 +946,7 @@
 			"type": "Legendary Creature — Angel Slug ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MW02 Pterione, Caustic Radiance.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MW02 Pterione, Caustic Radiance.png"
 			}
 		},
 		{
@@ -956,7 +956,7 @@
 			"type": "Legendary Creature — Merfolk Noble ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MZ01 Atlaenas, Emperor of Pelath.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MZ01 Atlaenas, Emperor of Pelath.png"
 			}
 		},
 		{
@@ -966,7 +966,7 @@
 			"type": "Sorcery",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ05 Channel the Depths.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ05 Channel the Depths.png"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 			"type": "Legendary Planeswalker — Aleza ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MZ04 Lady Aleza Inchioso.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MZ04 Lady Aleza Inchioso.png"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 			"type": "Legendary Creature — Shark Warlock ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MZ05 Bloodshed Razortooth.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MZ05 Bloodshed Razortooth.png"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Plains.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Plains.png"
 			}
 		},
 		{
@@ -1006,7 +1006,7 @@
 			"type": "Artifact Creature — Golem ",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RA01 Sunken Warform.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RA01 Sunken Warform.png"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 			"type": "Creature — Fish Horror ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RB01 Shadowshroud Angler.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RB01 Shadowshroud Angler.png"
 			}
 		},
 		{
@@ -1026,7 +1026,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RB02 Diabolic Shoal.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RB02 Diabolic Shoal.png"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RB03 Cycle of Agony.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RB03 Cycle of Agony.png"
 			}
 		},
 		{
@@ -1046,7 +1046,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RB04 Bloodshed's Command.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RB04 Bloodshed's Command.png"
 			}
 		},
 		{
@@ -1056,7 +1056,7 @@
 			"type": "Creature — Elemental Nymph ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG01 Sealight Nymphs.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG01 Sealight Nymphs.png"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 			"type": "Sorcery",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG02 Barbaric Shoal.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG02 Barbaric Shoal.png"
 			}
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"type": "Legendary Creature — Serpent ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG03 Veskor, Terror of the Trench.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG03 Veskor, Terror of the Trench.png"
 			}
 		},
 		{
@@ -1086,7 +1086,7 @@
 			"type": "Legendary Creature — Plant Druid ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG04 Lifebringer, High Gardener.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG04 Lifebringer, High Gardener.png"
 			}
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG07 Kulteiv Lifesigil.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG07 Kulteiv Lifesigil.png"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 			"type": "Creature — Elemental Jellyfish ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR01 Volcazoa.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR01 Volcazoa.png"
 			}
 		},
 		{
@@ -1116,7 +1116,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR02 Galvanic Shoal.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR02 Galvanic Shoal.png"
 			}
 		},
 		{
@@ -1126,7 +1126,7 @@
 			"type": "Enchantment",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR03 Blood In The Water.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR03 Blood In The Water.png"
 			}
 		},
 		{
@@ -1136,7 +1136,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR04 Volcanic Vision.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR04 Volcanic Vision.png"
 			}
 		},
 		{
@@ -1146,7 +1146,7 @@
 			"type": "Enchantment",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR05 Raging Whirlpool.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR05 Raging Whirlpool.png"
 			}
 		},
 		{
@@ -1156,7 +1156,7 @@
 			"type": "Legendary Creature — Shark Warrior ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR06 Havok, the Hellraiser.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR06 Havok, the Hellraiser.png"
 			}
 		},
 		{
@@ -1166,7 +1166,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR07 Molten Manifest.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR07 Molten Manifest.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"collector_number": "239",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS01 Bait.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS01 Bait.png"
 			}
 		},
 		{
@@ -1188,7 +1188,7 @@
 			"collector_number": "240",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS02 Up.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS02 Up.png"
 			}
 		},
 		{
@@ -1199,7 +1199,7 @@
 			"collector_number": "241",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS03 Lost.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS03 Lost.png"
 			}
 		},
 		{
@@ -1210,7 +1210,7 @@
 			"collector_number": "242",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS04 Duck.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS04 Duck.png"
 			}
 		},
 		{
@@ -1221,7 +1221,7 @@
 			"collector_number": "243",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS05 Time.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS05 Time.png"
 			}
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"collector_number": "244",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS06 Body.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS06 Body.png"
 			}
 		},
 		{
@@ -1243,7 +1243,7 @@
 			"collector_number": "245",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS07 Forget.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS07 Forget.png"
 			}
 		},
 		{
@@ -1254,7 +1254,7 @@
 			"collector_number": "246",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS08 Seek.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS08 Seek.png"
 			}
 		},
 		{
@@ -1265,7 +1265,7 @@
 			"collector_number": "247",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS09 High.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS09 High.png"
 			}
 		},
 		{
@@ -1276,7 +1276,7 @@
 			"collector_number": "248",
 			"layout": "split",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RS10 Bits.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RS10 Bits.png"
 			}
 		},
 		{
@@ -1286,7 +1286,7 @@
 			"type": "Legendary Creature — Merfolk Detective ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU01 Byillaimanos, Private Eye.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU01 Byillaimanos, Private Eye.png"
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU02 Mystic Shoal.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU02 Mystic Shoal.png"
 			}
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"type": "Creature — Merfolk Soldier ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU12 Lord of Pelath.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU12 Lord of Pelath.png"
 			}
 		},
 		{
@@ -1316,7 +1316,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU04 Raging Currents.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU04 Raging Currents.png"
 			}
 		},
 		{
@@ -1326,7 +1326,7 @@
 			"type": "Creature — Merfolk Rebel Wizard ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU05 Undercity Cloakmage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU05 Undercity Cloakmage.png"
 			}
 		},
 		{
@@ -1336,7 +1336,7 @@
 			"type": "Creature — Kraken ",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU06 Spawning Kraken.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU06 Spawning Kraken.png"
 			}
 		},
 		{
@@ -1346,7 +1346,7 @@
 			"type": "Legendary Creature — Bird ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU07 Villorus, the Wandering Wind.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU07 Villorus, the Wandering Wind.png"
 			}
 		},
 		{
@@ -1356,7 +1356,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW01 Monstrous Pelican.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW01 Monstrous Pelican.png"
 			}
 		},
 		{
@@ -1366,7 +1366,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW02 Harmonic Shoal.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW02 Harmonic Shoal.png"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW03 Heartguard's Pilgrimage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW03 Heartguard's Pilgrimage.png"
 			}
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"type": "Enchantment",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW04 Ward of the Tides.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW04 Ward of the Tides.png"
 			}
 		},
 		{
@@ -1396,7 +1396,7 @@
 			"type": "Creature — Whale Cleric ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW05 Keeper of the Sacred Flow.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW05 Keeper of the Sacred Flow.png"
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW06 Vitalite Plating.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW06 Vitalite Plating.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RW07 Aleza's Command.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RW07 Aleza's Command.png"
 			}
 		},
 		{
@@ -1426,7 +1426,7 @@
 			"type": "Legendary Creature — Elder Ape Leviathan ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ01 Baculetes, Dormant Titan.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ01 Baculetes, Dormant Titan.png"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ02 United Diversity.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ02 United Diversity.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Instant",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ03 Math Reanimator.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ03 Math Reanimator.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Creature — Shark Warlock ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ04 Bloodfeaster Ireweaver.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ04 Bloodfeaster Ireweaver.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Legendary Creature — Elder Elemental Octopus ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MZ03 Onax, Pyroclastic Fury.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MZ03 Onax, Pyroclastic Fury.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Legendary Creature — Merfolk Artificer ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ06 Axatos, Mantleforge Master.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ06 Axatos, Mantleforge Master.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ07 Whalefall.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ07 Whalefall.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Legendary Creature — Fish Avatar ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RZ08 The Mirrorschool.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RZ08 The Mirrorschool.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Swamp.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Swamp.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Enchantment Artifact — Equipment ",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UA01 Tideweft Trident.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UA01 Tideweft Trident.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UA02 Stone of Clarity.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UA02 Stone of Clarity.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UA03 Iron Adaptive.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UA03 Iron Adaptive.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Creature — Crab ",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB01 Corpsepicker Crab.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB01 Corpsepicker Crab.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Creature — Hellion Leech ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB02 Hellfang Lifedrinker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB02 Hellfang Lifedrinker.png"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 			"type": "Creature — Vampire Squid ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CB04 Vampire Squid.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CB04 Vampire Squid.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"type": "Creature — Salamander Rogue ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB04 Underbelly Smuggler.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB04 Underbelly Smuggler.png"
 			}
 		},
 		{
@@ -1586,7 +1586,7 @@
 			"type": "Legendary Creature — Salamander Warlock ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB05 Lyrux, Blackwater Muckwaker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB05 Lyrux, Blackwater Muckwaker.png"
 			}
 		},
 		{
@@ -1596,7 +1596,7 @@
 			"type": "Creature — Leviathan Fish ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU07 Titanwake Remora.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU07 Titanwake Remora.png"
 			}
 		},
 		{
@@ -1606,7 +1606,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB10 Insidious Erasure.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB10 Insidious Erasure.png"
 			}
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB11 Slave to the Cause.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB11 Slave to the Cause.png"
 			}
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"type": "Creature — Plant Dog ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG01 Kelpid.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG01 Kelpid.png"
 			}
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"type": "Creature — Plant Wizard ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG02 Kulteiv Growthmage.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG02 Kulteiv Growthmage.png"
 			}
 		},
 		{
@@ -1646,7 +1646,7 @@
 			"type": "Creature — Angel Spirit Fish ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW03 Celestial Glitterscale.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW03 Celestial Glitterscale.png"
 			}
 		},
 		{
@@ -1656,7 +1656,7 @@
 			"type": "Legendary Creature — Turtle ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG04 Chorithus, the Havenshell.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG04 Chorithus, the Havenshell.png"
 			}
 		},
 		{
@@ -1666,7 +1666,7 @@
 			"type": "Creature — Nautilus Kraken ",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG06 Countershell Nautilus.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG06 Countershell Nautilus.png"
 			}
 		},
 		{
@@ -1676,7 +1676,7 @@
 			"type": "Creature — Leviathan Starfish ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG07 Gargant Starform.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG07 Gargant Starform.png"
 			}
 		},
 		{
@@ -1686,7 +1686,7 @@
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG08 Imposing Presence.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG08 Imposing Presence.png"
 			}
 		},
 		{
@@ -1696,7 +1696,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG10 Angler's Lure.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG10 Angler's Lure.png"
 			}
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"type": "Creature — Shark Scout ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR01 Razortooth Frontrunner.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR01 Razortooth Frontrunner.png"
 			}
 		},
 		{
@@ -1716,7 +1716,7 @@
 			"type": "Artifact",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR02 Mantleforge Kiln.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR02 Mantleforge Kiln.png"
 			}
 		},
 		{
@@ -1726,7 +1726,7 @@
 			"type": "Creature — Goblin Shark Sorcerer ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR03 Seascour Summoner.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR03 Seascour Summoner.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"type": "Creature — Shark Barbarian Knight ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR04 Bloodfeaster Linebreaker.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR04 Bloodfeaster Linebreaker.png"
 			}
 		},
 		{
@@ -1746,7 +1746,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR05 Imbue Elemental.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR05 Imbue Elemental.png"
 			}
 		},
 		{
@@ -1756,7 +1756,7 @@
 			"type": "Creature — Elemental Hellion  ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR06 Mantlecharged Hellmaw.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR06 Mantlecharged Hellmaw.png"
 			}
 		},
 		{
@@ -1766,7 +1766,7 @@
 			"type": "Creature — Elemental Insect ",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR07 Calufactumite.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR07 Calufactumite.png"
 			}
 		},
 		{
@@ -1776,7 +1776,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR08 Vent Frustrations.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR08 Vent Frustrations.png"
 			}
 		},
 		{
@@ -1786,7 +1786,7 @@
 			"type": "Sorcery",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR09 Blast Wave.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR09 Blast Wave.png"
 			}
 		},
 		{
@@ -1796,7 +1796,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CR11 Fire Prophecy.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CR11 Fire Prophecy.png"
 			}
 		},
 		{
@@ -1806,7 +1806,7 @@
 			"type": "Sorcery",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR11 Vaporize.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR11 Vaporize.png"
 			}
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"type": "Creature — Merfolk ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU01 Merfolk Looter.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU01 Merfolk Looter.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"type": "Creature — Fish Illusion ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU02 Forgetful Fish.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU02 Forgetful Fish.png"
 			}
 		},
 		{
@@ -1836,7 +1836,7 @@
 			"type": "Creature — Merfolk Advisor ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU03 Lexos Steward.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU03 Lexos Steward.png"
 			}
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"type": "Sorcery",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU04 Dogmatic Duplicate.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU04 Dogmatic Duplicate.png"
 			}
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"type": "Creature — Lobster ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU05 Stoneclaw Spellcutter.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU05 Stoneclaw Spellcutter.png"
 			}
 		},
 		{
@@ -1866,7 +1866,7 @@
 			"type": "Creature — Leviathan Rebel ",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB07 Alezan Depthcrasher.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB07 Alezan Depthcrasher.png"
 			}
 		},
 		{
@@ -1876,7 +1876,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU08 Shared Seeing.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU08 Shared Seeing.png"
 			}
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU09 Spellswipe.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU09 Spellswipe.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CU14 Opt.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CU14 Opt.png"
 			}
 		},
 		{
@@ -1906,7 +1906,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1CW01 Found Family.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/CW01 Found Family.png"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 			"type": "Creature — Merfolk Soldier ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW02 Phalanx Drillmaster.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW02 Phalanx Drillmaster.png"
 			}
 		},
 		{
@@ -1926,7 +1926,7 @@
 			"type": "Creature — Shapeshifter ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG03 Amorphous Aspirant.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG03 Amorphous Aspirant.png"
 			}
 		},
 		{
@@ -1936,7 +1936,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW04 Rescue Party.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW04 Rescue Party.png"
 			}
 		},
 		{
@@ -1946,7 +1946,7 @@
 			"type": "Creature — Merfolk Advisor ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW05 Legion Overseer.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW05 Legion Overseer.png"
 			}
 		},
 		{
@@ -1956,7 +1956,7 @@
 			"type": "Creature — Fish ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW06 Glittering Glowray.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW06 Glittering Glowray.png"
 			}
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"type": "Creature — Octopus ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW07 Kelp-Garden Guardian.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW07 Kelp-Garden Guardian.png"
 			}
 		},
 		{
@@ -1976,7 +1976,7 @@
 			"type": "Creature — Merfolk Soldier ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW08 Pelathan Phalanx.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW08 Pelathan Phalanx.png"
 			}
 		},
 		{
@@ -1986,7 +1986,7 @@
 			"type": "Sorcery",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW09 Usurp.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW09 Usurp.png"
 			}
 		},
 		{
@@ -1996,7 +1996,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW11 Aleza's Inspiration.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW11 Aleza's Inspiration.png"
 			}
 		},
 		{
@@ -2006,7 +2006,7 @@
 			"type": "Creature — Zombie Fish ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ01 Gluttonous Tilapian.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ01 Gluttonous Tilapian.png"
 			}
 		},
 		{
@@ -2016,7 +2016,7 @@
 			"type": "Creature — Leviathan Turtle ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ02 Thunderous Archelon.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ02 Thunderous Archelon.png"
 			}
 		},
 		{
@@ -2026,7 +2026,7 @@
 			"type": "Legendary Creature — Elemental ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ03 Alinax, the Herald.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ03 Alinax, the Herald.png"
 			}
 		},
 		{
@@ -2036,7 +2036,7 @@
 			"type": "Creature — Merfolk Wizard ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ04 Warden of Atlaenas.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ04 Warden of Atlaenas.png"
 			}
 		},
 		{
@@ -2046,7 +2046,7 @@
 			"type": "Creature — Plant Druid ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ05 Druid of the Cycle.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ05 Druid of the Cycle.png"
 			}
 		},
 		{
@@ -2056,7 +2056,7 @@
 			"type": "Creature — Whale Sorcerer ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ06 Visionary of Magma.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ06 Visionary of Magma.png"
 			}
 		},
 		{
@@ -2066,7 +2066,7 @@
 			"type": "Creature — Salamander Rogue ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ07 Blackwater Robber.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ07 Blackwater Robber.png"
 			}
 		},
 		{
@@ -2076,7 +2076,7 @@
 			"type": "Legendary Creature — Shark Berserker ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ08 Krunch, Razortooth Brute.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ08 Krunch, Razortooth Brute.png"
 			}
 		},
 		{
@@ -2086,7 +2086,7 @@
 			"type": "Creature — Merfolk Artificer ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ09 Pelathan Tinkerer.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ09 Pelathan Tinkerer.png"
 			}
 		},
 		{
@@ -2096,7 +2096,7 @@
 			"type": "Creature — Wall ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UZ10 Brilliant Barrier.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UZ10 Brilliant Barrier.png"
 			}
 		},
 		{
@@ -2106,7 +2106,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Mountain.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Mountain.png"
 			}
 		},
 		{
@@ -2116,7 +2116,7 @@
 			"type": "Land",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Radiant Aquapolis.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Radiant Aquapolis.png"
 			}
 		},
 		{
@@ -2126,7 +2126,7 @@
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Detrital Rotfield.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Detrital Rotfield.png"
 			}
 		},
 		{
@@ -2136,7 +2136,7 @@
 			"type": "Land",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Turbulent Ripstream.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Turbulent Ripstream.png"
 			}
 		},
 		{
@@ -2146,7 +2146,7 @@
 			"type": "Legendary Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1ML01 The Heartshrine.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/ML01 The Heartshrine.png"
 			}
 		},
 		{
@@ -2156,7 +2156,7 @@
 			"type": "Legendary Creature — Merfolk Noble ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1MZ02 Kiora, One With The Sea.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/MZ02 Kiora, One With The Sea.png"
 			}
 		},
 		{
@@ -2166,7 +2166,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Utopian Coralscape.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Utopian Coralscape.png"
 			}
 		},
 		{
@@ -2176,7 +2176,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Volcanic Ridge.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Volcanic Ridge.png"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"type": "Land",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Hadal Expanse.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Hadal Expanse.png"
 			}
 		},
 		{
@@ -2196,7 +2196,7 @@
 			"type": "Land",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Tenebrous Murk.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Tenebrous Murk.png"
 			}
 		},
 		{
@@ -2206,7 +2206,7 @@
 			"type": "Land",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Bountiful Kelpgrove.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Bountiful Kelpgrove.png"
 			}
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1Hydrothermal Trench.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/Hydrothermal Trench.png"
 			}
 		},
 		{
@@ -2226,7 +2226,7 @@
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UR17 Heartmage's Fury.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UR17 Heartmage's Fury.png"
 			}
 		},
 		{
@@ -2236,7 +2236,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU16 Nullifying Wake.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU16 Nullifying Wake.png"
 			}
 		},
 		{
@@ -2246,7 +2246,7 @@
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB17 Heartmage's Will.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB17 Heartmage's Will.png"
 			}
 		},
 		{
@@ -2256,7 +2256,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU03 Atlaenas' Command.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU03 Atlaenas' Command.png"
 			}
 		},
 		{
@@ -2266,7 +2266,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UU17 Heartmage's Grace.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UU17 Heartmage's Grace.png"
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UW17 Heartmage's Valor.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UW17 Heartmage's Valor.png"
 			}
 		},
 		{
@@ -2286,7 +2286,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UB12 Regraft.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UB12 Regraft.png"
 			}
 		},
 		{
@@ -2296,7 +2296,7 @@
 			"type": "Instant",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1UG17 Heartmage's Vigor.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/UG17 Heartmage's Vigor.png"
 			}
 		},
 		{
@@ -2306,7 +2306,7 @@
 			"type": "Instant",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RG08 Lifebringer's Command.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RG08 Lifebringer's Command.png"
 			}
 		},
 		{
@@ -2316,7 +2316,7 @@
 			"type": "Legendary Creature — Jellyfish Kraken ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RU08 Cyloron, the Stingmass.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RU08 Cyloron, the Stingmass.png"
 			}
 		},
 		{
@@ -2326,7 +2326,7 @@
 			"type": "Instant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1RR08 Daretti's Command.png"
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/prealpha1/RR08 Daretti's Command.png"
 			}
 		},
 		]
