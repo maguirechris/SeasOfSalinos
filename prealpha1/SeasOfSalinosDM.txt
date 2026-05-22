@@ -2789,4 +2789,9 @@
 	10 RU08 Cyloron, the Stingmass
 	10 RR08 Daretti's Command
 	[LandSlot(1)]
-	
+	10 Forest
+		10 Island
+		10 Plains
+		10 Swamp
+		10 Mountain
+		
