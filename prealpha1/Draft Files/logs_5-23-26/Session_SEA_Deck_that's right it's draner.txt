@@ -1,0 +1,35 @@
+1 RR06 Havok, the Hellraiser
+1 CW12 Underdog's Gambit
+2 CA03 Seascout's Wayfinder
+3 UR09 Blast Wave
+1 UW07 Kelp-Garden Guardian
+1 UW02 Phalanx Drillmaster
+2 RW03 Heartguard's Pilgrimage
+1 CW06 Pelathan Warbeasts
+1 Volcanic Ridge
+2 Mountain
+1 MW01 Irdus Al, the White Whale
+1 CR02 Mantleforge Kiln
+1 UW03 Celestial Glitterscale
+2 CR01 Razortooth Frontrunner
+1 UZ09 Pelathan Tinkerer
+1 CW14 Invigorating Charge
+1 UR03 Seascour Summoner
+1 CW04 Soaring Skyfin
+2 RS02 Up
+1 CA01 Daretti's Crewmate
+2 UR02 Seascour Deepspeaker
+1 UW04 Rescue Party
+1 CW03 Pufferwagg
+1 CW05 Ruins Explorer
+1 CR05 Wild Hellion
+1 RR07 Molten Manifest
+1 CW15 Commodify
+3 Plains
+2 Mountain
+
+1 UZ03 Alinax, the Herald
+2 UR07 Calufactumite
+1 UA01 Tideweft Trident
+1 UB01 Corpsepicker Crab
+2 Island

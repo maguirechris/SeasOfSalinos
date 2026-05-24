@@ -1,0 +1,37 @@
+1 RG01 Sealight Nymphs
+3 UG11 Symbiotic Shield
+2 CG04 Tidemalkin
+2 UG07 Gargant Starform
+2 CB02 Scavenging Scuttler
+1 CB06 Razortooth Corruptor
+1 CG07 Surfacing Rockwalla
+1 CB13 Scrape the Muck
+1 CG03 Kelpstalker Seabear
+2 CG09 Kelp-Garden Warden
+1 RA01 Sunken Warform
+1 UB02 Hellfang Lifedrinker
+1 UG03 Amorphous Aspirant
+1 CB07 Bonded Vellomancer
+1 CB09 Blackwater Banehand
+1 UG02 Kulteiv Growthmage
+2 Detrital Rotfield
+2 CB03 City Infiltrator
+1 CG06 Gruesome Landbeast
+1 CB08 Kulteiv Rottender
+1 Swamp
+1 Forest
+1 RS10 Bits
+1 CB05 Undercity Junkpicker
+1 CG01 Titans' Herald
+1 CA05 Heartmage's Conch
+1 RB02 Diabolic Shoal
+1 Utopian Coralscape
+1 CB14 Seascour Altar
+1 Mountain
+1 Swamp
+1 Forest
+
+1 CW10 Seaglow Marlin
+1 Island
+1 CW06 Pelathan Warbeasts
+1 CW12 Underdog's Gambit

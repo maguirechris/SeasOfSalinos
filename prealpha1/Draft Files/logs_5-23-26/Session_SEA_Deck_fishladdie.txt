@@ -1,0 +1,35 @@
+2 RG01 Sealight Nymphs
+1 CW05 Ruins Explorer
+2 CG11 Lifecharged Leviathan
+1 CG15 Nourishing Currents
+1 CA04 Morphic Glass
+1 CG10 Thrashing Crushjaw
+1 CW01 Found Family
+1 CW03 Pufferwagg
+1 CR09 Hoard Lurker
+2 UZ10 Brilliant Barrier
+1 CW12 Underdog's Gambit
+2 CR07 Rift of Power
+1 Plains
+1 MZ03 Onax, Pyroclastic Fury
+1 RG07 Kulteiv Lifesigil
+1 UZ03 Alinax, the Herald
+1 UW11 Aleza's Inspiration
+1 CG05 Chimeric Enigma
+3 Utopian Coralscape
+1 CG02 Spawn of Onax
+2 CW15 Commodify
+1 UG06 Countershell Nautilus
+1 CG13 Primordial Power
+2 Forest
+1 CR03 Glittering Carp
+1 CR15 Sunken Treasure
+1 UA02 Stone of Clarity
+1 UR07 Calufactumite
+1 Hydrothermal Trench
+1 CR10 Unleash the Devastators
+1 CG06 Gruesome Landbeast
+1 UR05 Imbue Elemental
+1 UR02 Seascour Deepspeaker
+
+1 CU01 Scholar of the Abyss

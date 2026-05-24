@@ -1,0 +1,36 @@
+1 CR11 Fire Prophecy
+1 MR01 Daretti, Submersible Schemer
+1 CR09 Hoard Lurker
+1 UR17 Heartmage's Fury
+3 CR05 Wild Hellion
+1 Plains
+2 UR04 Bloodfeaster Linebreaker
+1 UR10 Magma Lance
+2 CU06 Pelathan Heartmage
+1 CU11 Flowbend
+2 CU10 Conjured Urchins
+1 CU13 Sinking Feeling
+1 UR11 Vaporize
+1 RR05 Raging Whirlpool
+1 RR06 Havok, the Hellraiser
+1 UA02 Stone of Clarity
+1 Forest
+1 RU04 Raging Currents
+1 UU07 Titanwake Remora
+1 UU05 Stoneclaw Spellcutter
+2 Turbulent Ripstream
+1 Island
+
+1 Abyssal Stronghold
+1 CG10 Thrashing Crushjaw
+1 RU02 Mystic Shoal
+1 CR02 Mantleforge Kiln
+1 CR08 Daretti's Seascraper
+1 UZ04 Warden of Atlaenas
+2 CW13 Blessing of Atlaenas
+1 UW06 Glittering Glowray
+1 UR03 Seascour Summoner
+1 CA05 Heartmage's Conch
+1 UW09 Usurp
+1 CR13 Bloody Madness
+1 UR05 Imbue Elemental

@@ -1,0 +1,40 @@
+1 UB07 Alezan Depthcrasher
+1 RU05 Undercity Cloakmage
+2 CU14 Opt
+1 UB04 Underbelly Smuggler
+1 UB10 Insidious Erasure
+1 CU05 Rebel Geysermage
+1 RS03 Lost
+1 CU06 Pelathan Heartmage
+1 CB03 City Infiltrator
+1 CB09 Blackwater Banehand
+1 UU05 Stoneclaw Spellcutter
+1 UU04 Dogmatic Duplicate
+2 UB11 Slave to the Cause
+1 CU03 Lexos Coral
+1 CU04 Backstreets Sapper
+2 Tenebrous Murk
+2 CU02 Amphin Pickpocket
+1 CW05 Ruins Explorer
+1 CU11 Flowbend
+1 RS04 Duck
+2 Radiant Aquapolis
+1 RB03 Cycle of Agony
+1 CA02 Benthic Probe
+1 CW09 Flourishing Gastrobranchs
+1 Plains
+6 Island
+4 Swamp
+
+1 Forest
+1 UU02 Forgetful Fish
+1 CG06 Gruesome Landbeast
+1 Turbulent Ripstream
+1 CW01 Found Family
+1 CR05 Wild Hellion
+2 RR06 Havok, the Hellraiser
+1 CW13 Blessing of Atlaenas
+1 CW06 Pelathan Warbeasts
+1 RW02 Harmonic Shoal
+1 UZ04 Warden of Atlaenas
+1 UZ10 Brilliant Barrier
