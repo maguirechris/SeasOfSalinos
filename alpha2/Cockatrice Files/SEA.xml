@@ -1,0 +1,4168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>SEA</name>
+      <longname>Seas of Salinos</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Daretti&apos;s Crewmate</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.
+{2}: Return this creature from your graveyard to the battlefield. Activate only if you control a token, a Daretti planeswalker, or a legendary Goblin, and only once each turn.</text>
+    </card>
+    <card>
+      <name>Benthic Probe</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Snake Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the bottom card of target player’s library. You may put that card on top of that library. Then, draw a card.</text>
+    </card>
+    <card>
+      <name>Seascout&apos;s Wayfinder</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued permanent.)
+When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{2}, Sacrifice this artifact: If this artifact is imbued, you gain X life, where X is the mana value of the card imbuing it.</text>
+    </card>
+    <card>
+      <name>Morphic Glass</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <cipt>1</cipt>
+      <text>This artifact enters tapped. 
+When this artifact enters, create a 1/1 colorless Shapeshifter creature token.
+{T}: Add one mana of any color.</text>
+      <related>Shapeshifter SEA</related>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Conch</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Choose target instant or sorcery card in your graveyard. You may exile it imbuing target unimbued permanent you control with imbue. If you don’t, put that card on the bottom of your library. (That permanent becomes imbued for as long as that card remains exiled.)</text>
+    </card>
+    <card>
+      <name>Blackwater Leech</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Leech </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When this creature enters, it deals 1 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>City Infiltrator</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Scavenging Scuttler</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a +1/+1 counter on it.
+Whenever a creature dies, you may put a +1/+1 counter on this creature. This ability triggers only once per turn.</text>
+    </card>
+    <card>
+      <name>Razortooth Corruptor</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shark Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)
+Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature attacks, if it’s imbued, you may put the card imbuing it into its owner’s graveyard. If you do, target creature gets -X/-X until end of turn, where X is this creature’s power.  </text>
+    </card>
+    <card>
+      <name>Undercity Junkpicker</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, exile target card with mana value 4 or less from a graveyard. For as long as you control this creature, you may play that card, and you may spend mana as though it were mana of any color to cast it.</text>
+    </card>
+    <card>
+      <name>Tangled Graftmage</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Wizard Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+As this creature enters, put a +1/+1 counter on each creature you control.
+Creatures you control get -1/-1.</text>
+    </card>
+    <card>
+      <name>Bonded Vellomancer</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shark Leech Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, remove all counters from up to one target creature. If you controlled that creature, you gain that much life and mill that many cards.</text>
+    </card>
+    <card>
+      <name>Kulteiv Rottender</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{B}: Exile target creature card and target noncreature card from a single graveyard. Distribute two +1/+1 counters among any number of creatures you control. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Blackwater Banehand</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Salamander Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When this creature enters, you may put your choice of a deathtouch counter or a menace counter on target creature you don’t own.</text>
+    </card>
+    <card>
+      <name>Rising Deepfiend</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, trample
+As long as this creature has flying, it gets +5/+5.
+3BB: This creature gains flying until end of turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Smell Blood</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell deals 3 damage to target creature or player that was dealt damage this turn. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Depth Crush</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature, then clash with titans. This spell deals 3 damage to each player that won. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Scrape the Muck</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player puts the bottom four cards of their library into their graveyard. Then you may return a creature card from your graveyard to your hand. 
+You lose 1 life.</text>
+    </card>
+    <card>
+      <name>Seascour Altar</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a creature: This artifact deals 1 damage to target player. Surveil 1. If you didn’t own the sacrificed creature, you draw a card and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Caught In The Act</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of target opponent’s library face down. You may look at and play those cards for as long as they remain exiled, and you may spend mana as if it were mana of any color to cast those spells. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Titans&apos; Herald</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Whale Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}. When this mana is spent to cast a spell with mana value 5 or greater, that spell can’t be countered.</text>
+    </card>
+    <card>
+      <name>Kelpstalker Seabear</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bear Otter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Motley — As long as there are six or more creature types among other non-Shapeshifter creatures you control, this creature has +2/+1 and has trample.</text>
+    </card>
+    <card>
+      <name>Surfacing Rockwalla</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+1G: This creature gets +2/+2 until end of turn. If it is imbued, put a +1/+1 counter on it. Activate only once each turn.              </text>
+    </card>
+    <card>
+      <name>Tidemalkin</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, put a +1/+1 counter on target creature you control.
+Each creature you control with a +1/+1 counter on it has ward {1}. (Whenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>Kelp-Garden Warden</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If one or more counters would be put on this creature, that many plus one of those counters are put on it instead.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Gruesome Landbeast</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When this creature enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Chimeric Enigma</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Squid Crab Chimera  </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+As long as this creature entered the battlefield this turn, it has hexproof.</text>
+    </card>
+    <card>
+      <name>Spawn of Onax</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Octopus </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+7G, {T}, Sacrifice this creature: Look at the top eight cards of your library. Put up to one permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Capricrustacean</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Goat Lobster </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach
+When this creature enters, destroy up to one target artifact or enchantment.
+Whenever an artifact or enchantment an opponent controls is put into a graveyard from the battlefield, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Thrashing Crushjaw</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Crocodile </type>
+        <maintype>Creature</maintype>
+        <pt>6/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+    </card>
+    <card>
+      <name>Lifecharged Leviathan</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>8/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+5G, Discard this card: Target creature you control gets +8/+7 and gains trample, reach, and hexproof until end of turn.            </text>
+    </card>
+    <card>
+      <name>Prey Upon</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control.  (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Primordial Power</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +X/+X and gains trample until end of turn, where X is that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Kelptender&apos;s Rod</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has “Whenever you spend your eighth total mana in a turn, put two +1/+1 counters this creature. If you control fewer than eight lands, draw a card.”
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Symbiotic Shield</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters, put X +1/+1 counters on enchanted creature.
+If damage would be dealt to enchanted creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from that creature.</text>
+    </card>
+    <card>
+      <name>Nourishing Currents</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then, clash with titans. If you won, untap that land. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)
+You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Abyssal Stronghold</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {B} or {R}.
+2BR, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Bloodfeaster Ambusher</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shark Berserker Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters with a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Seascour Deepspeaker</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Shark Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters with two +1/+1 counters on it.)
+When this creature enters, add an amount of {R} equal to its power.</text>
+    </card>
+    <card>
+      <name>Glittering Carp</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Treasure Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create a Treasure token.
+{T}, Sacrifice this creature: Add one mana of any color.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Ventfeeder</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace
+Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, return target instant or sorcery spell from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Wild Hellion</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever this creature attacks, it deals 1 damage to each player.</text>
+    </card>
+    <card>
+      <name>Seascour Channeler</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Shark Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+{T}: Add {R}. If this creature is imbued, instead add RR.</text>
+    </card>
+    <card>
+      <name>Rift of Power</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control deals combat damage to a player, you may sacrifice this enchantment. If you do, add RRRR. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Daretti&apos;s Seascraper</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature attacks, create your choice of a Treasure token or a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+1R, Sacrifice an artifact: This creature gets +1/+0 and gains first strike until end of turn.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Hoard Lurker</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Lobster Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When this creature enters, create a Treasure token and a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Unleash the Devastators</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>7R</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 4/4 red Hellion creature tokens with haste.</text>
+      <related>Hellion SEA</related>
+    </card>
+    <card>
+      <name>Magma Lance</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Magma Lance deals 4 damage to target creature or planeswalker. Excess damage is dealt to that creature or planeswalker’s controller instead.</text>
+    </card>
+    <card>
+      <name>Abyssal Lash</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Abyssal Lash deals 3 damage to any target, then clash with titans. If you won, add RR. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Bloody Madness</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if an opponent was dealt damage this turn.
+Target creature deals damage equal to its power to itself.</text>
+    </card>
+    <card>
+      <name>Sunken Treasure</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard two cards.
+Draw four cards and create four Treasure tokens.
+{2}, Discard this card: Create a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Forked Bolt</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Forked Bolt deals 2 damage divided as you choose among one or two targets.</text>
+    </card>
+    <card>
+      <name>Scholar of the Abyss</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if you control a creature with mana value 5 or greater, draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Amphin Pickpocket</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature deals combat damage to a player, exile the top card of that player’s library. 
+You may cast the last card exiled by this creature, and you may spend mana as though it were any color to cast that spell.</text>
+    </card>
+    <card>
+      <name>Lexos Coral</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+2U, Sacrifice this creature: Return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Backstreets Sapper</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may tap or untap up to one target creature.</text>
+    </card>
+    <card>
+      <name>Rebel Geysermage</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Rebel Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+1U, {T}: Target creature you control gains flying until end of turn. If you didn’t own that creature, untap this creature.</text>
+    </card>
+    <card>
+      <name>Pelathan Heartmage</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature becomes imbued, draw a card. If the card imbuing it has mana value 5 or greater, draw two cards instead. 
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Breaching Loftwhale</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Whale </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature deals combat damage to a player, if it has flying, return target nonland permanent that player controls to its owner’s hand.
+1UU: This creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Spellbender Krakedron</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>7/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Ward {7}  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {7}.)
+3U, Discard this card: Look at the top seven cards of your library. Put one of those cards into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Conjured Urchins</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Urchin Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+When this creature becomes the target of a spell or ability, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Flowbend</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. Draw a card. If you didn’t control that creature, put a card from your hand on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Reshape Essence</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Clash with titans, then counter target spell. If that spell is countered this way and you didn’t win, put that spell on top of its owner’s library instead of into that player’s graveyard. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Sinking Feeling</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.
+{U}: Clash with titans. If you won, put enchanted creature onto the bottom of its owner’s library. Activate only once each turn and only as a sorcery. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Abyssal Secrets</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the bottom eight cards of your library. Put two of those cards into your hand. Put the rest on the top or bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Thirst For Power</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Then discard two cards unless you discard a card with mana value 5 or greater.</text>
+    </card>
+    <card>
+      <name>Riptide Centurion</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Merfolk Wizard Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Riptide Centurion enters, you may tap two other untapped Merfolk you control. If you do, target creature’s owner puts it on the bottom of their library. Otherwise, return target creature to its owner’s hand.         </text>
+    </card>
+    <card>
+      <name>Pelathan Shieldmate</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 1/1 blue Merfolk creature token.</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Palace Gardener</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature blocks, you gain 2 life.       </text>
+    </card>
+    <card>
+      <name>Pufferwagg</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Brushwagg Fish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature blocks or becomes blocked, it gets +0/+5 until end of turn.
+Motley — Whenever this creature blocks or becomes blocked, if there are six or more creature types among other non-Shapeshifter creatures you control, this creature gets +5/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Soaring Skyfin</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as this creature has flying, it gets +1/+1.
+WW: This creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Ruins Explorer</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one —
+• Create a tapped Treasure token.
+• Create a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.”</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Loyal Hippocamp</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever this creature attacks, untap another target attacking creature you control. If it’s a Merfolk, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Outskirts Bottomfeeder</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lobster </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{W}, {T}: Exile the bottom card of target player’s library. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Flourishing Gastrobranchs</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Slug Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if it isn’t a token, create two tokens that are copies of it.
+3W, Sacrifice an artifact: Create two tokens that are copies of this creature.</text>
+    </card>
+    <card>
+      <name>Pelathan Warbeasts</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Pangolin Seal Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more Merfolk you control become untapped, put a +1/+1 counter on this creature.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Seaglow Marlin</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Seaglow Marlin enters, it fights up to one target tapped creature. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Underdog&apos;s Gambit</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, clash with titans. If you didn’t win, copy this spell. You may choose new targets for the copy. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)
+Destroy up to one target tapped creature. Create a Treasure token.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Healer&apos;s Soulsponge</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Sponge </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature dies, return target creature with mana value 3 or less from your graveyard to the battlefield. If this creature is imbued, create a token that’s a copy of that creature.          </text>
+    </card>
+    <card>
+      <name>Blessing of Atlaenas</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+2 and has “1U, {T}: Create a 1/1 blue Merfolk creature token.”</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Invigorating Charge</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When this enchantment enters, creatures you control get +1/+1 until end of turn.
+{3}: Untap target creature. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Commodify</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. You and that permanent’s controller each create a tapped Treasure token.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>The Tidal Heart</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each creature you control has imbue.
+Whenever a permanent you control becomes imbued, put a +1/+1 counter on each imbued creature you control.
+1WUBRG, {T}: You may put any number of cards in exile that are imbuing a permanent you control into their owners’ graveyards and copy them. You may cast any number of the copies without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Ingenuity, Daretti&apos;s Vessel</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Ingenuity deals combat damage, look at that many cards from the bottom of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. You may shuffle.
+Tap an untapped legendary creature or planeswalker you control: Ingenuity becomes an artifact creature until end of turn.
+Crew 3</text>
+    </card>
+    <card>
+      <name>Mucros, the Originator</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>8BB</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Elder Crab  </type>
+        <maintype>Creature</maintype>
+        <pt>5/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, haste
+Mucros costs {1} less to cast for each creature card in your graveyard.
+When Mucros attacks, exile target creature card with mana value 3 or less from a graveyard. Create a token that’s a copy of that creature and that’s tapped and attacking, except it’s a black Crab.</text>
+    </card>
+    <card>
+      <name>Painweaving</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The first time a source you control causes you to lose life on each of your turns, Painweaving deals that much damage to up to one target creature and you gain that much life.
+4B, Sacrifice Painweaving: Create a 0/0 black Horror creature token. Put X +1/+1 counters on that creature, where X is the number of creatures that died this turn.</text>
+      <related>Horror SEA</related>
+    </card>
+    <card>
+      <name>Call the Ancients</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may remove a counter from any number of creatures you control. This spell costs {2} less to cast for each counter removed this way.
+Search your library for a green creature card with mana value X or less, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ravager of the Reef</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fish Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, vigilance
+This creature enters with X +1/+1 counters on it.
+Motley — Whenever this creature attacks, if there are six or more creature types among other non-Shapeshifter creatures you control, choose any number of other target creatures you control that don’t share a creature type with another creature you control. Put X +1/+1 counters on those creatures, where X is this creature’s power.                  </text>
+    </card>
+    <card>
+      <name>Daretti, Submersible Schemer</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Goblin Artificer </type>
+        <maintype>Creature</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an artifact enters under your control, Daretti deals 1 damage to each opponent.
+1R, T: Clash with titans, then exile the bottom card of your library. If you won, create X Treasure tokens, where X is the mana value of the exiled card. Otherwise, untap Daretti.-5: </text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Cataclysmic Eruption</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6RRR</manacost>
+        <cmc>9</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cataclysmic Eruption deals 20 damage divided as you choose among any number of target creatures or planeswalkers. Cataclysmic Eruption deals 10 damage divided as you choose among any number of target players. Cataclysmic Eruption deals 5 damage to you.</text>
+    </card>
+    <card>
+      <name>Bevaihn, High Flowmage</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Whale Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Each player may pay {0} rather than pay the mana cost of the first spell they cast on each of their turns.</text>
+    </card>
+    <card>
+      <name>Mass Evolution</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UUU</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create four 1/1 colorless Shapeshifter creature tokens. Then, you may choose a creature, discard a creature card, or exile a creature card from a graveyard. If you do, each creature you control becomes a copy of that card or creature, except they aren’t legendary.</text>
+      <related>Shapeshifter SEA</related>
+    </card>
+    <card>
+      <name>Irdus Al, the White Whale</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elder Whale </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Irdus Al enters or attacks, exile up to one other target permanent.
+Whenever Irdus Al is dealt damage or dies, return target permanent card exiled with Irdus Al to the battlefield tapped under its owner’s control. Then if you control that permanent, untap it.             </text>
+    </card>
+    <card>
+      <name>Pterione, Caustic Radiance</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>8WW</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Angel Slug </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, ward {3}
+Affinity for artifacts and for enchantments
+Whenever Pterione attacks, each player sacrifices an artifact or enchantment. When you sacrifice an artifact this way, create a token that’s a copy of target enchantment you control. When you sacrifice an enchantment this way, create a token that’s a copy of target artifact you control.  </text>
+    </card>
+    <card>
+      <name>Atlaenas, Emperor of Pelath</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Merfolk Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature an opponent controls becomes blocked by a Merfolk you control, return that creature to its owner’s hand.
+Whenever a Merfolk you control attacks, untap it. It gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Channel the Depths</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>2GUR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 3, then you may exile the bottom card of your library. If you do, Channel the Depths deals X damage to any target, you gain X life, and you draw half X cards, rounded down, where X is the exiled card’s mana value. Otherwise, draw two cards.</text>
+    </card>
+    <card>
+      <name>Lady Aleza Inchioso</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Aleza </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Target player reveals their hand. You choose up to one noncreature, nonland card from it. That player discards that card. 
+[0]: Until the beginning of your next turn, creatures can’t attack Lady Aleza Inchioso. You gain 2 life.
+[-3]: Exile target creature. Its controller creates a Treasure token. 
+[-9]: You get an emblem with “You choose all targets for all spells and abilities.”</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Bloodshed Razortooth</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>7BBR</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Shark Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, menace
+Bloodshed Razortooth costs {1} less to cast for each 1 life your opponents have lost this turn.
+When Bloodshed Razortooth enters, each creature target opponent controls gets -X/-X until end of turn, where X is the amount of life that player has lost this turn.    </text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Sunken Warform</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>16</manacost>
+        <cmc>16</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Sunken Warform costs {X} less to cast, where X is the total mana value of nonartifact cards in your graveyard.
+Exile Sunken Warform: Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Shadowshroud Angler</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fish Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When this creature enters, look at target opponent’s hand. You choose a creature card from it. Put that card from that player’s hand onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Diabolic Shoal</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a black card with mana value X from your hand rather than pay this spell’s mana cost.
+Destroy each creature with mana value X.</text>
+    </card>
+    <card>
+      <name>Baleful Battleaxe</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters under your control, if it entered from a graveyard or was cast from a graveyard, put a charge counter on this Equipment. Then, you may attach this Equipment to that creature.
+Equipped creature gets +2/+1 for each counter on this Equipment and has menace.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Bloodshed&apos;s Command</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• This spell deals 2 damage to each opponent and you gain 2 life.
+• Each player mills 3 cards. Put up to one creature card with mana value 3 or less from a graveyard onto the battlefield tapped under your control.
+• Put a +1/+1 counter on each creature you control. Creatures your opponents control get -1/-1 until end of turn.
+• Each opponent sacrifices a nontoken creature of their choice.</text>
+    </card>
+    <card>
+      <name>Gil and Rix, Pillaging Partners</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Shark Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature deals combat damage to a player, clash with titans. Exile each card revealed by a winning player. If you didn’t win, you may play each card exiled this way without paying its mana cost. Otherwise, you may play each card exiled this way.</text>
+    </card>
+    <card>
+      <name>Seascour Spawn</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Goblin Shark </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst X (This creature enters with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)
+When this creature enters, if it isn’t a token, create X tokens that are copies of this creature, where X is the number of players that lost life this turn.</text>
+    </card>
+    <card>
+      <name>Deathkeeper, Moldermage</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Deathkeeper enters or attacks, you may sacrifice a creature. If you do, put its counters on Deathkeeper, then target creature you control gets +X/+0 until end of turn, where X is the number of counters among permanents you control.</text>
+    </card>
+    <card>
+      <name>Sealight Nymphs</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Nymph </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your second main phase, if you control no untapped lands, add an amount of {G} equal to this creature’s power.
+Whenever you cast a spell or activate an ability, if the amount of mana you spent to cast that spell or activate that ability was greater than this creature’s power, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Barbaric Shoal</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a green card with mana value X from your hand rather than pay this spell’s mana cost.
+Destroy each artifact and enchantment with mana value X.</text>
+    </card>
+    <card>
+      <name>Veskor, Terror of the Trench</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If one or more +1/+1 counters would be put on a creature you control, that many plus two +1/+1 counters are put on it instead.
+BB, {T}, Sacrifice another creature: Divide X +1/+1 counters among any number of target creatures, where X was the sacrificed creature’s power.</text>
+    </card>
+    <card>
+      <name>Lifebringer, High Gardener</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Plant Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put one or more counters on a creature you control, you may put that same number and kind of counters on each other creature you control. Do this only once during each of your turns.</text>
+    </card>
+    <card>
+      <name>Pax, Intrepid Zoologist</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Merfolk Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue
+Whenever a creature enters under your control, if Pax isn’t imbued, note one of its creature types that hasn’t been noted for Pax.
+1GW, Return a card imbuing Pax to its owner’s graveyard: Create an X/X green and white Incarnation creature token with trample, where X is the number of creature types noted for Pax. If the imbuing card had mana value 5 or greater, create another one of those tokens.                    </text>
+      <related>Incarnation SEA</related>
+    </card>
+    <card>
+      <name>Rush of Life</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +X/+X until end of turn, where X is the amount of mana you’ve spent this turn. Then, clash with titans. If you won, that creature gains trample until end of turn. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Kulteiv Lifesigil</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When this Aura enters, draw a card.
+Enchanted land has “{T}: Add X mana of any one color, where X is the number of creature types among non-Shapeshifter creatures you control, to a maximum of 15.”</text>
+    </card>
+    <card>
+      <name>Volcazoa</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XX1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, first strike
+Other Elementals you control get +1/+1.
+When this creature enters the battlefield, create X tokens that are copies of it.</text>
+    </card>
+    <card>
+      <name>Galvanic Shoal</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a red card with mana value X from your hand rather than pay this spell’s mana cost.
+Copy target instant or sorcery spell you control with mana value X twice. You may choose new targets for the copies.</text>
+    </card>
+    <card>
+      <name>Blood In The Water</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Damage can’t be prevented.
+Each creature you control has bloodthirst X. (Each creature you control enters with X +1/+1 counters on it, where X is the total damage your opponents have been dealt this turn.)</text>
+    </card>
+    <card>
+      <name>Volcanic Vision</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card’s mana value to each creature your opponents control. Exile Volcanic Vision.</text>
+    </card>
+    <card>
+      <name>Raging Whirlpool</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, it deals 1 damage to each creature. 
+Whenever a creature dies, this enchantment deals 1 damage to each creature.
+At the beginning of the end step, sacrifice this enchantment.</text>
+    </card>
+    <card>
+      <name>Havok, the Hellraiser</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Shark Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a creature spell, if an opponent lost life this turn, you may pay 1R. If you do, create a 4/4 red Hellion creature token with haste.</text>
+      <related>Hellion SEA</related>
+    </card>
+    <card>
+      <name>Molten Manifest</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target red instant or sorcery card from your graveyard with a lava counter on it. Create an 8/8 red Elemental creature token with trample and haste and “Whenever this creature deals combat damage to an opponent, you may cast a copy of a card you own in exile with a lava counter on it without paying its mana cost.”</text>
+      <related>Elemental SEA</related>
+    </card>
+    <card>
+      <name>Bait</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1G // 2UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever a creature enters under your control this turn, you may have that creature fight target creature you don’t control.
+--- 
+As an additional cost to cast this spell, return a creature you control to its owner’s hand.
+You may put a creature card from your hand onto the battlefield tapped with a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Up</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2W // 1R</manacost>
+        <cmc>3</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield under your control.
+--- 
+Create a token that’s a copy of a creature you control, except it has haste. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Lost</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>BB // 3U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature you don’t control.
+--- 
+Exile up to two cards in an opponent’s graveyard. You may play those cards for as long as they remain exiled, and you may spend mana as if it were mana of any color to cast those spells.</text>
+    </card>
+    <card>
+      <name>Duck</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1U // 3WW</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+Scry 2.
+--- 
+Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Time</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>5U // 1R</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Take an extra turn after this one. Exile Time.
+--- 
+Target instant or sorcery card in your graveyard gains flashback until the end of your next turn. The flashback cost is equal to its mana cost.</text>
+    </card>
+    <card>
+      <name>Body</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1GG // 1WW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/3 green Beast creature token.
+--- 
+Put a +1/+1 counter on each creature you control.</text>
+      <related>Beast SEA</related>
+    </card>
+    <card>
+      <name>Forget</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3B // 1W</manacost>
+        <cmc>4</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player discards two cards.
+You draw a card.
+--- 
+Choose up to two creature cards in your graveyard each with mana value 3 or less that were put there from anywhere this turn. Return them to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Seek</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1B // 2R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it. That player puts that card on the bottom of their library.
+--- 
+Destroy deals X damage to each opponent, where X is 8 minus the number of cards in that player’s hand.</text>
+    </card>
+    <card>
+      <name>High</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2R // 1G</manacost>
+        <cmc>3</cmc>
+        <type>Instant // Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add RRRR.
+--- 
+You may pay any amount of mana. When you do, put that many +1/+1 counters and a trample counter on target creature.</text>
+    </card>
+    <card>
+      <name>Bits</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2G // 2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Distribute X +1/+1 counters among any number of target creatures you control, where X is the power of the sacrificed creature.
+--- 
+Destroy up to one target creature. Put a +1/+1 counter on each creature you control with a counter on it.</text>
+    </card>
+    <card>
+      <name>Byillaimanos, Private Eye</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Merfolk Detective </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Byillaimanos enters, choose an opponent. That player plays with the top card of their library revealed for as long as you control Byillaimanos. 
+UB: You may cast a spell from the top of the chosen player’s library this turn, and you may spend mana as though it were mana of any color to cast spells this way.        </text>
+    </card>
+    <card>
+      <name>Mystic Shoal</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a blue card with mana value X from your hand rather than pay this spell’s mana cost.
+Put target creature or spell with mana value X on top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Lord of Pelath</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, other Merfolk you control get +1/+1 until end of turn.
+Other Merfolk you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Raging Currents</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shuffle all creatures into their owner’s libraries.</text>
+    </card>
+    <card>
+      <name>Undercity Cloakmage</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Rebel Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control but don’t own get +2/+1 and can’t be blocked by creatures with power 2 or greater.
+1U, {T}: Gain control of target creature with power 1 or less for as long as you control this creature.</text>
+    </card>
+    <card>
+      <name>Spawning Kraken</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Kraken, Leviathan, Octopus, or Serpent you control deals combat damage to a player, create a 9/9 blue Kraken creature token.</text>
+      <related>Kraken SEA</related>
+    </card>
+    <card>
+      <name>Villorus, the Wandering Wind</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+You may cast instant and sorcery spells with mana value 5 or greater as though they had flash.
+Instant and sorcery spells with mana value 5 or greater you cast cost {U} (or {1}) less to cast.</text>
+    </card>
+    <card>
+      <name>Monstrous Pelican</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, exile another target nontoken creature until this creature leaves the battlefield.
+4W: Exile this creature, then return it to the battlefield under its owner’s control at the beginning of the next end step.            </text>
+    </card>
+    <card>
+      <name>Harmonic Shoal</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XWW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a white card with mana value X from your hand rather than pay this spell’s mana cost.
+Exile target noncreature, nonland permanent with mana value X.</text>
+    </card>
+    <card>
+      <name>Heartguard&apos;s Pilgrimage</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more nontoken Merfolk you control become tapped, you gain 1 life.
+Whenever one or more nontoken Merfolk you control become untapped, create a 1/1 blue Merfolk creature token.</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Ward of the Tides</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Imbue
+Whenever a creature you control with mana value 3 or less dies, if this enchantment is imbued by a card, you may put that card into its owner’s graveyard. If you do, return that creature to the battlefield under your control with a finality counter on it and you gain X life, where X is half the mana value of the imbued spell, rounded down.</text>
+    </card>
+    <card>
+      <name>Keeper of the Sacred Flow</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Whale Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, vigilance
+When this creature enters, put up to one target card that’s imbuing a permanent from exile into its owner’s graveyard. If that card was imbuing a permanent you control, put a +1/+1 counter on this creature and you draw a card.</text>
+    </card>
+    <card>
+      <name>Vitalite Plating</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Equipment enters, create a 1/1 colorless Shapeshifter creature token, then attach this to it.
+Equipped creature has lifelink and vigilance and gets +1/+1 for each creature type among non-Shapeshifter creatures you control, to a maximum of 15.
+Equip {3}</text>
+      <related>Shapeshifter SEA</related>
+    </card>
+    <card>
+      <name>Aleza&apos;s Command</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Target player creates a 1/1 blue Merfolk creature token.
+• Exile target card from a graveyard. Scry 1.
+• Target creature gets +1/+1 and becomes a Nightmare in addition to its other types until end of turn. Untap it.
+• Target creature you control with mana value 3 or less gains indestructible until end of turn.</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Baculetes, Dormant Titan</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elder Ape Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell can’t be countered.
+Hexproof, reach, vigilance, trample, indestructible
+Baculetes can’t attack or block unless you’ve cast a spell with mana value 5 or greater this turn.</text>
+    </card>
+    <card>
+      <name>United Diversity</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>On the beginning of combat on your turn, if no creature you control shares a creature type with another creature you control, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Pull from the Murk</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WBB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose any number of creature cards in your graveyard. If those cards have total mana value 7, return them to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Bloodfeaster Ireweaver</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BRR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shark Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst—deathtouch (If an opponent was dealt damage this turn, this creature enters with a deathtouch counter on it.)
+Whenever another Hellion or Shark you control deals combat damage to a player, put a +1/+1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>Onax, Pyroclastic Fury</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RRRG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Elder Elemental Octopus </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, ward—Pay 8 life
+At the beginning of your end step, you may pay {R/G} and sacrifice a land. If you do, Onax deals 8 damage divided as you choose among any number of targets, and lands you control don’t untap during your next untap step.</text>
+    </card>
+    <card>
+      <name>Axatos, Mantleforge Master</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Merfolk Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Axatos enters, create a Treasure token and a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.”
+Each creature token you control gets +X/+X, where X is the number of noncreature tokens you control.           </text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Whalefall</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BBG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, exile a creature card from a graveyard.
+Create a number of 1/1 black Crab creature tokens equal to the exiled card’s toughness, then distribute a number of +1/+1 counters equal to the exiled card’s power among any number of target creatures you control.</text>
+      <related count="x">Crab SEA</related>
+    </card>
+    <card>
+      <name>The Mirrorschool</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Fish Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Each other Fish you control has base power and toughness X/X, where X is The Mirrorschool’s power.
+Whenever The Mirrorschool deals combat damage to a player, put a +1/+1 counter on it and you draw a card.</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Tideweft Trident</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued permanent.)
+Equipped creature gets +5/+4 and has flying.
+Equip {8}. If this artifact is imbued, this ability costs {X} less to activate, where X is the mana value of the card imbuing it.</text>
+    </card>
+    <card>
+      <name>Stone of Clarity</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC.
+{3}, {T}, Sacrifice this artifact: Gain control of target spell or permanent you own.</text>
+    </card>
+    <card>
+      <name>Iron Adaptive</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose two creature types.
+This creature is the first chosen type in addition to its other types.
+This creature has protection from the second chosen type.</text>
+    </card>
+    <card>
+      <name>Primordial Starbomb</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued permanent.)
+{T}, Sacrifice this artifact: Destroy target permanent with mana value less than or equal to the mana value of the card imbuing this. Activate only if this artifact is imbued.</text>
+    </card>
+    <card>
+      <name>Expedition Pod</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this Vehicle enters, search your library for a basic land card, exile it, then shuffle.
+When this Vehicle deals combat damage to a player, put a land exiled with it onto the battlefield tapped under your control.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Corpsepicker Crab</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature dies, target player mills three cards.</text>
+    </card>
+    <card>
+      <name>Hellfang Lifedrinker</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hellion Leech </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters with two +1/+1 counters on it.)
+When this creature enters, it deals X damage to each opponent and you gain X life, where X is this creature’s power.</text>
+    </card>
+    <card>
+      <name>Vampire Squid</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Squid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters or dies, it deals 1 damage to any target and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Underbelly Smuggler</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you play a card you don’t own, create a Treasure token.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Lyrux, Blackwater Muckwaker</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Salamander Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lyrux enters, return target creature card with mana value 2 or less from a graveyard to the battlefield under your control with a finality counter on it.
+Whenever a creature enters under your control, if it entered from a graveyard or was cast from a graveyard, put a +1/+1 counter and a deathtouch counter on it.          </text>
+    </card>
+    <card>
+      <name>Scuttleswarm</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature that died this turn.
+Create three 1/1 black Crab creature tokens. Then, put a +1/+1 counter on each creature you control.</text>
+      <related count="3">Crab SEA</related>
+    </card>
+    <card>
+      <name>Titanwake Remora</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7UU</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Leviathan Fish </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This creature costs {X} less to cast, where X is the greatest mana value among cards in your graveyard.
+This creature enters tapped during combat.</text>
+    </card>
+    <card>
+      <name>Sly Decrier</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Rebel Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, lifelink
+Whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target.
+3B: You and target opponent each draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Mortal Flicker</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.  When that creature dies this turn, return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Insidious Erasure</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. Then, exile up to one of those cards. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</text>
+    </card>
+    <card>
+      <name>Slave to the Cause</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature card in a graveyard
+Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued permanent.)
+When this Aura becomes imbued, return enchanted creature to the battlefield tapped under your control if it has mana value X or less, where X is the mana value of the card imbuing this Aura.</text>
+    </card>
+    <card>
+      <name>Kelpid</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant Dog </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put a counter on a permanent you control, put a growth counter on this creature. This ability triggers only once each turn.
+Remove three growth counters from this creature: Create a 1/1 green Saproling creature token and put two +1/+1 counters on it.</text>
+      <related>Saproling SEA</related>
+    </card>
+    <card>
+      <name>Kulteiv Growthmage</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a +1/+1 counter on it.
+Remove a +1/+1 counter from this creature: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Celestial Glitterscale</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Spirit Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature attacks, put a flying counter on another target creature you control.
+While this creature is imbued and attacking, other creatures you control with flying have base power and toughness 4/4. </text>
+    </card>
+    <card>
+      <name>Chorithus, the Havenshell</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Chorithus or another creature enters under your control, if it doesn’t share a creature type with another creature you control, look at the top card of your library. If it’s a land card, you may put it onto the battlefield tapped. If you don’t put the card onto the battlefield, put it into your hand.          </text>
+    </card>
+    <card>
+      <name>Savage Smashing</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. Create a 3/3 green Beast creature token.</text>
+      <related>Beast SEA</related>
+    </card>
+    <card>
+      <name>Countershell Nautilus</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Nautilus Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {5} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {5}.)
+Other creatures you control with mana value 5 or greater have ward {5}.</text>
+    </card>
+    <card>
+      <name>Gargant Starform</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>9G</manacost>
+        <cmc>10</cmc>
+        <type>Creature - Leviathan Starfish </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+This creature costs {1} less to cast for each counter among permanents you control.
+This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Imposing Presence</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt by creatures with mana value 4 or less this turn.</text>
+    </card>
+    <card>
+      <name>Progenitor Thrakkon</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>8G</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Beast Kraken Chimera </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create two 3/3 green Beast creature tokens and you gain 6 life.
+2G, Discard this card: Create a 3/3 green Beast creature token. You gain 3 life. Activate only as a sorcery.       </text>
+      <related count="2">Beast SEA</related>
+    </card>
+    <card>
+      <name>Angler&apos;s Lure</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, up to one target creature blocks it this turn if able.
+When enchanted creature dies, draw a card, then you may put a creature card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Pyroclastic Seamount</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice this land: Reveal cards from the bottom of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order. Then if that land is a basic land, untap it.</text>
+    </card>
+    <card>
+      <name>Unending Fathom</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice this land: Each opponent sacrifices a nonbasic land. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Pelath, Bastion of Order</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color. Spend this mana only to cast a Merfolk spell or activate an ability of a Merfolk.
+WU, {T}: Pelath becomes a legendary 4/4 Merfolk Knight creature with vigilance and “Whenever this creature attacks, untap another target creature you control.” It’s still a land. Activate only if three or more Merfolk entered the battlefield under your control this turn. </text>
+    </card>
+    <card>
+      <name>Razortooth Frontrunner</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shark Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace</text>
+    </card>
+    <card>
+      <name>Mantleforge Kiln</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Wher this artifact enters, create a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.” 
+{2}, {T}, Sacrifice this artifact: Create a token that’s a copy of target token you control.</text>
+      <related>Construct Fish SEA</related>
+    </card>
+    <card>
+      <name>Seascour Summoner</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin Shark Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, create a 1/1 colorless Shapeshifter creature token that’s tapped and attacking. Sacrifice that token at the beginning of the next end step.
+Attacking tokens you control get +1/+0.</text>
+      <related>Shapeshifter SEA</related>
+    </card>
+    <card>
+      <name>Bloodfeaster Linebreaker</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shark Barbarian Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst—menace (If an opponent was dealt damage this turn, this creature enters with a menace counter on it.)
+If this creature would deal damage to a player, it deals double that damage to that player instead.         </text>
+    </card>
+    <card>
+      <name>Magmatic Ragehorn</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Ox </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+Haste, trample
+When this creature attacks, if it is imbued, another target creature gets +X/+0 and gains trample and haste until end of turn, where X is the mana value of the card imbuing this creature. </text>
+    </card>
+    <card>
+      <name>Mantlecharged Hellmaw</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental Hellion  </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+This creature costs {1} less to cast for each 1 life your opponents have lost this turn.
+When this creature enters, draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Calufactumite</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Insect </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay {R} rather than pay this creature’s mana cost as long as you’ve cast a noncreature spell with mana value 5 or greater this turn.
+Exile this creature: Add {R}. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Vent Frustrations</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast Vent Frustrations, copy it for each player that lost life this turn. You may choose new targets for the copy.
+Vent Frustrations deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Blast Wave</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell deals X damage to target player and 1 damage to each of up to three target creatures that player controls.</text>
+    </card>
+    <card>
+      <name>Fire Prophecy</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Fire Prophecy deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Vaporize</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vaporize deals 7 damage to each creature, each player, and each planeswalker.</text>
+    </card>
+    <card>
+      <name>Merfolk Looter</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Forgetful Fish</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fish Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, put target spell on top of its owner’s library.
+This creature can’t attack unless defending player controls an Island.  </text>
+    </card>
+    <card>
+      <name>Lexos Steward</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature becomes imbued, you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is 3 plus the mana value of the card imbuing this creature.</text>
+    </card>
+    <card>
+      <name>Dogmatic Duplicate</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control. If you didn’t own that creature, create another one of those tokens.</text>
+    </card>
+    <card>
+      <name>Stoneclaw Spellcutter</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Lobster </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, ward {3}
+When this creature enters, counter target spell unless its controller pays {3}.
+2U, Discard this card: Counter target spell unless its controller pays {3}.</text>
+    </card>
+    <card>
+      <name>Euphotic Wanderer</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add CC. You can’t spend this mana to cast spells with mana value 5 or less.</text>
+    </card>
+    <card>
+      <name>Alezan Depthcrasher</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>7B</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Leviathan Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+This creature costs {2} less to cast for each permanent you control but don’t own.</text>
+    </card>
+    <card>
+      <name>Shared Scrying</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2. Then, you may tap two untapped creatures you control. If you do, draw two cards. Otherwise, draw a card.</text>
+    </card>
+    <card>
+      <name>Spellswipe</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target spell. Then, clash with titans. You may play that card for as long as it remains exiled. If you won the clash, you may play that card without paying its mana cost. Otherwise, you may spend mana as though it were mana of any color to cast that spell. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Opt</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Timepirate Telyx</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Salamander Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue
+When Telyx becomes imbued, exile a nonland card with mana value X or less from a graveyard and copy it, where X is the mana value of the card imbuing this creature. You may cast the copy without paying its mana cost.
+Whenever Telyx deals combat damage to a player, you may shuffle a card imbuing Telyx into its owner’s library. If you didn’t own that card, there is an additional beginning phase after this phase. (The beginning phase includes the untap, upkeep, and draw steps.)</text>
+    </card>
+    <card>
+      <name>Found Family</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 colorless Shapeshifter creature token.
+Motley — If there are six or more creature types among non-Shapeshifter creatures you control, that token enters with an additional +1/+1 counter on it and you draw a card.</text>
+      <related>Shapeshifter SEA</related>
+    </card>
+    <card>
+      <name>Lukus, Phalanx Drillmaster</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Merfolk Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Other creatures you control with base power and toughness 1/1 get +1/+1.</text>
+    </card>
+    <card>
+      <name>Amorphous Aspirant</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue (As an instant or sorcery card you control resolves, you may exile it imbuing this unimbued creature.)
+When this creature becomes imbued, put X +1/+1 counters on it, where X is the mana value of the card imbuing it.
+As long as this creature has seven or more counters on it, it’s a Leviathan and has trample.    </text>
+    </card>
+    <card>
+      <name>Rescue Party</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+Create two tapped 1/1 blue Merfolk creature tokens.</text>
+      <related count="2">Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Legion Overseer</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes untapped, create a 1/1 blue Merfolk creature token. Then if it isn’t the first time this ability has resolved this turn, put a +1/+1 counter and a shield counter on that creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Glittering Glowray</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. If that card was put into your graveyard this turn, it enters the battlefield with a +1/+1 counter on it. Otherwise, you gain 3 life.        </text>
+    </card>
+    <card>
+      <name>Kelp-Garden Guardian</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6W</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Octopus </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+This spell costs {1} less to cast for each unique creature type among non-Shapeshifter creatures you control.</text>
+    </card>
+    <card>
+      <name>Pelathan Phalanx</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Merfolk Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters, create two 1/1 blue Merfolk creature tokens.
+Tap six untapped Merfolk you control: This creature gets +6/+6 and gains indestructible until end of turn. Tap it. </text>
+      <related count="2">Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Usurp</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature that shares a creature type with a creature you control as you cast this spell.</text>
+    </card>
+    <card>
+      <name>Shelltower Beastmaster</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature enters under your control, if it doesn’t share a creature type with another creature you control, you may create a Treasure token. Do this only once each turn.
+{T}, Sacrifice three Treasure tokens: Create a 3/3 green Beast creature token.  </text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Aleza&apos;s Inspiration </name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>X1WW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to X target creatures each get +X/+X until end of turn. Untap those creatures.</text>
+    </card>
+    <card>
+      <name>Heartpulse</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you control a permanent with imbue.
+Add one mana of any color.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Chasm Expedition</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Clash with titans, then choose one. If you won, you may choose both instead. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)
+• Create two 1/1 black Crab creature tokens.
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. You gain 1 life.</text>
+      <related count="2">Crab SEA</related>
+    </card>
+    <card>
+      <name>Call of the Heart</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast for each imbued permanent you control.
+Create a 1/1 colorless Shapeshifter creature token, a 3/3 green Beast creature token, and a 4/4 red Hellion creature token with haste.</text>
+      <related>Shapeshifter SEA</related>
+      <related>Beast SEA</related>
+    </card>
+    <card>
+      <name>Sparks of Rebellion</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4UR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then this spell deals damage to each of up to two target creatures equal to the number of cards in your hand. Excess damage dealt to a creature this way is dealt to that creature’s controller instead.</text>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Wrath</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent.
+{6}, Put Heartmage’s Wrath into its owner’s graveyard: Exile target nonland permanent. Its controller draws a card. Activate only as a sorcery and only if Heartmage’s Wrath is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Gluttonous Tilapian</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, mill five cards.
+When this creature dies, exile it. If you do, return up to two target creature cards each with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Thunderous Archelon</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GUU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Leviathan Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Whenever you cast a spell with mana value 5 or greater, draw two cards.</text>
+    </card>
+    <card>
+      <name>Alinax, the Herald</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>6RG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Alinax costs {X} less to cast, where X is the amount of mana you’ve spent this turn.
+When Alinax enters, add RG.</text>
+    </card>
+    <card>
+      <name>Warden of Atlaenas</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Merfolk you control becomes the target of a spell or ability, you may pay {1}. If you do, create a 1/1 blue Merfolk creature token.
+WWU, {T}: Other Merfolk you control get +1/+1 until end of turn.</text>
+      <related>Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Druid of the Cycle</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Druid </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature dies, put a +1/+1 counter on this creature.
+Remove five counters from this creature: Target creature you control gets +5/+5 and gains lifelink until end of turn.
+Remove ten counters from this creature: Creatures you control get +5/+5 and gain trample until end of turn.   </text>
+    </card>
+    <card>
+      <name>Visionary of Magma</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UUR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Whale Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, haste
+When this creature enters, target instant or sorcery card in your graveyard gains flashback {0} until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Blackwater Robber</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Salamander Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, exile target nonland card from an opponent’s graveyard. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Spells you cast but don’t own cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Krunch, Razortooth Brute</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Shark Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+2BR: Krunch deals 1 damage to any target. You gain life equal to the damage dealt this way.</text>
+    </card>
+    <card>
+      <name>Pelathan Tinkerer</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you create one or more tokens for the first time each turn, create a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block”.
+{R}, {T}, Sacrifice a noncreature token: Create a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.”</text>
+      <related>Construct Fish SEA</related>
+    </card>
+    <card>
+      <name>Brilliant Bulwark</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Each other creature you control that doesn’t share a creature type with another creature you control gets +1/+1 and has vigilance.</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Radiant Aquapolis</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {W} or {U}.
+2WU, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Detrital Rotfield</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {B} or {G}.
+2BG, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Turbulent Ripstream</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {U} or {R}.
+2UR, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>The Heartshrine</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Imbue
+{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if this land is imbued.
+{X}, {T}, Sacrifice this land: Draw cards equal to one plus the number of imbued permanents you control, up to X cards.</text>
+    </card>
+    <card>
+      <name>Kiora, One With The Sea</name>
+      <set rarity="mythic">SEA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Merfolk Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Imbue
+Whenever a creature with mana value 5 or greater enters under your control, add GU and draw a card.
+{U}, Return a card imbuing Kiora to its owner’s graveyard: Counter target spell that targets a creature you control unless its controller pays {X}, where X is the mana value of the card imbuing Kiora.</text>
+    </card>
+    <card>
+      <name>Utopian Coralscape</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {G} or {W}.
+2GW, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Volcanic Ridge</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {R} or {W}.
+2RW, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Hadal Expanse</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {W} or {B}.
+2WB, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Tenebrous Murk</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {U} or {B}.
+2UB, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Bountiful Kelpgrove</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {G} or {U}.
+2GU, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Hydrothermal Trench</name>
+      <set rarity="">SEA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>This land enters tapped.
+{T}: Add {R} or {G}.
+2RG, {T}, Put a card from your hand on the bottom of your library: Draw a card.</text>
+    </card>
+    <card>
+      <name>Kalenos, Aleza&apos;s Faithful</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Rebel Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kalenos enters, each player discards a card, then you may return a creature card from your graveyard to your hand.
+2WB, Exile this card from your graveyard: Search your library and/or graveyard for an Aleza planeswalker card, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
+    </card>
+    <card>
+      <name>Algaebloom Strangler</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with X +1/+1 counters on it.
+6G: Double the amount of +1/+1 counters on this creature.
+When this creature dies, put its counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>Swellflare Krill</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Shrimp </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+3R: Double this creature’s power until end of turn.</text>
+    </card>
+    <card>
+      <name>Streetwise Stalking</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you control a nonland permanent you don’t own as you cast this spell, you may choose two instead.
+•  Up to two target creatures can’t be blocked this turn.
+• Return target nonland permanent to its owner’s hand.
+• Counter target creature spell.</text>
+    </card>
+    <card>
+      <name>Ingenious Scrapsmith</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Salamander Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a Junk token.
+Junk you control have “{T}, Sacrifice this artifact: Draw a card. Activate only as a sorcery.”
+Whenever you sacrifice an artifact, add {R}. This ability triggers only once each turn.</text>
+      <related>Junk SEA</related>
+    </card>
+    <card>
+      <name>Transient Surge</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, trample
+When this creature enters, add GGG.
+At the beginning of the end step, sacrifice this creature.</text>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Fury</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Heartmage’s Fury deals 2 damage to any target.
+{R}, Put Heartmage’s Fury into its owner’s graveyard: Heartmage’s Fury deals 2 damage to target creature. Activate only if Heartmage’s Fury is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Break Into Pieces</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact. Create a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+      <related>Junk SEA</related>
+    </card>
+    <card>
+      <name>In A Single Bite</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature an opponent controls. 
+Clash with titans. If you win, you may return In A Single Bite to its owner’s hand. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Blastfire Ritual</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target creature gets +3/+0 and gains first strike until end of turn.
+Add RR.</text>
+    </card>
+    <card>
+      <name>Krakenflash</name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7U</manacost>
+        <cmc>8</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 9/9 blue Kraken creature token. Draw a card.
+Flashback 5UUU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+      <related>Kraken SEA</related>
+    </card>
+    <card>
+      <name>Nullifying Wake</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs 2UU less to cast if you’ve cast another blue spell with mana value 5 or greater this turn.
+Counter target spell unless its controller pays {X}.</text>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Will</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature you control gains “When this creature dies, return it to the battlefield tapped under its owner’s control with a +1/+1 counter on it.”
+{B}, Put Heartmage’s Will into its owner’s graveyard: Until end of turn, target creature you control gains “When this creature dies, return it to the battlefield tapped under its owner’s control.” Activate only if Heartmage’s Will is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Atlaenas&apos; Command</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7U</manacost>
+        <cmc>8</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Target player creates five 1/1 blue Merfolk creature tokens.
+• Gain control of target nonland permanent.
+• Create a token that’s a copy of target creature or artifact you control.
+• Exile all other spells. Target player draws three cards.</text>
+      <related count="5">Merfolk SEA</related>
+    </card>
+    <card>
+      <name>Smuggler&apos;s Signet</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add UB.
+Whenever you cast a spell you don’t own, untap this artifact. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Deadly Gambit</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target opponent. Secretly choose a creature that player controls. That player sacrifices a creature of their choice, then sacrifices the chosen creature.</text>
+    </card>
+    <card>
+      <name>Razortooth Deathjaw</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie Shark Beserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters with three +1/+1 counters on it.)
+When this creature enters, destroy up to one target creature with power less than this creature’s power.</text>
+    </card>
+    <card>
+      <name>Pax&apos;s Surveyance</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top nine cards of your library and reveal any number of creature cards that don’t share a creature type with one another. Put those cards into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Grace</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature. It gains hexproof until end of turn.
+{U}, Put Heartmage’s Grace into its owner’s graveyard: Untap target creature. Activate only if Heartmage’s Grace is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Channel Order</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature you control gains “1W, {T}: Destroy another target tapped creature.”</text>
+    </card>
+    <card>
+      <name>Breaching Strike</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains flying and hexproof until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Formless Shapemender </name>
+      <set rarity="common">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When this creature enters, mill four cards. You may put a Plains card or a creature card with mana value 3 or less from among the cards milled this way into your hand. If you don’t, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Slithering Seafloor</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Sand Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Motley — At the beginning of your end step, if there are six or more creature types among other non-Shapeshifter creatures you control, put a +1/+1 counter on this creature. Scry 1.
+{2}, Remove a +1/+1 counter from this creature: Draw a card. Activate only as a sorcery and only once each turn.</text>
+    </card>
+    <card>
+      <name>Splendid Simulacrum</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Merfolk Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may create a Treasure token.
+When this creature dies, you may create a token that’s a copy of target token you control.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Valor</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a shield counter on target creature. It gets +1/+0 until end of turn. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{W}, Put Heartmage’s Valor into its owner’s graveyard: Target creature gets +1/+0 and gains indestructible until end of turn. Activate only if Heartmage’s Valor is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Regraft</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Then, for each kind of counter among creatures you control, you may put a counter of that kind on that creature.</text>
+    </card>
+    <card>
+      <name>Drown Memories</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search target opponent’s library for a card. That player shuffles their library, then puts that card on the bottom.
+Surveil 1, then draw a card. Put this card on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Ancient Kelpback</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{T}: Add {G}.
+When this creature dies, clash with titans. If you won, return it to the battlefield tapped under your control. It’s a land. (Each player reveals the bottom card of their library, then puts it on the top or bottom. Each player with the highest mana value card wins.)</text>
+    </card>
+    <card>
+      <name>Kelp-Garden&apos;s Blessing</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add GGGGGG. Spend this mana only to cast creature spells or activate abilities of creature sources.</text>
+    </card>
+    <card>
+      <name>Cycle of Regrowth</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, put its counters on this enchantment.
+{2}, Remove three counters from this enchantment: Draw a card. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Heartmage&apos;s Vigor</name>
+      <set rarity="uncommon">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter and a reach counter on target creature.
+{G}, Put Heartmage’s Vigor into its owner’s graveyard: Put a +1/+1 counter on target creature. Activate only if Heartmage’s Vigor is in exile imbuing a permanent you control.</text>
+    </card>
+    <card>
+      <name>Lifebringer&apos;s Command</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target player adds two mana in any combination of colors.
+• Target player creates a 1/1 green Saproling creature token. Put a +1/+1 counter and a trample counter on it.
+• Destroy target artifact or creature with flying.
+• Target player gains 1 life for each creature type among non-Shapeshifter creatures they control. Draw a card.</text>
+      <related>Saproling SEA</related>
+    </card>
+    <card>
+      <name>Prestigious Jewelsmith</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Merfolk Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a Treasure token.
+Treasures you control have “{T}, Sacrifice this artifact: Add WW.”
+Whenever you sacrifice an artifact for the first time during each of your turns, draw a card.</text>
+      <related>Treasure SEA</related>
+    </card>
+    <card>
+      <name>Cyloron, the Stingmass</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Jellyfish Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>5/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, vigilance, ward {1}
+Whenever you cast a spell, tap target creature an opponent controls and put a stun counter on it.
+Whenever an opponent casts a spell, untap target creature you control.
+Whenever Cyloron attacks, if you control more untapped creatures than defending player, draw cards equal to the difference.</text>
+    </card>
+    <card>
+      <name>Daretti&apos;s Command</name>
+      <set rarity="rare">SEA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Target creature gets +2/+0 and gains haste until end of turn.
+• This spell deals 1 damage to any target.
+• Target player creates a Treasure token.
+• Target player sacrifices an artifact.</text>
+      <related>Treasure SEA</related>
+    </card>

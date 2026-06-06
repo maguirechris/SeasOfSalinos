@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Copy SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a copy of something else.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Merfolk SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Haste
+Whenever this creature deals combat damage to an opponent, you may cast a copy of a card you own in exile with a lava counter on it without paying its mana cost.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hellion SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Beast SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Construct Fish SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Construct Fish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+This token can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Junk SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Junk </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Crab SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Saproling SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Saproling </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Kraken SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation SEA</name>
+      <set>SEA</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Token Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
