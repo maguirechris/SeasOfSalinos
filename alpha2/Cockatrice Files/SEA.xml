@@ -668,6 +668,7 @@ Whenever this creature attacks, it deals 1 damage to each player.</text>
       <text>When this creature attacks, create your choice of a Treasure token or a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
 1R, Sacrifice an artifact: This creature gets +1/+0 and gains first strike until end of turn.</text>
       <related>Treasure SEA</related>
+      <related>Junk SEA</related>
     </card>
     <card>
       <name>Hoard Lurker</name>
@@ -685,6 +686,7 @@ Whenever this creature attacks, it deals 1 damage to each player.</text>
 When this creature enters, create a Treasure token and a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
       <related>Treasure SEA</related>
+      <related>Junk SEA</related>
     </card>
     <card>
       <name>Unleash the Devastators</name>
@@ -755,6 +757,7 @@ Target creature deals damage equal to its power to itself.</text>
 Draw four cards and create four Treasure tokens.
 {2}, Discard this card: Create a Junk token. (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
       <related>Treasure SEA</related>
+      <related>Junk SEA</related>
     </card>
     <card>
       <name>Forked Bolt</name>
@@ -1062,6 +1065,7 @@ WW: This creature gains flying until end of turn.</text>
 • Create a tapped Treasure token.
 • Create a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.”</text>
       <related>Treasure SEA</related>
+      <related>Construct Fish SEA</related>
     </card>
     <card>
       <name>Loyal Hippocamp</name>
@@ -1106,6 +1110,7 @@ Whenever this creature attacks, untap another target attacking creature you cont
       <tablerow>2</tablerow>
       <text>When this creature enters, if it isn’t a token, create two tokens that are copies of it.
 3W, Sacrifice an artifact: Create two tokens that are copies of this creature.</text>
+      <related count="2">Flourishing Gastrobranchs</related>
     </card>
     <card>
       <name>Pelathan Warbeasts</name>
@@ -1688,6 +1693,7 @@ BB, {T}, Sacrifice another creature: Divide X +1/+1 counters among any number of
 Whenever a creature enters under your control, if Pax isn’t imbued, note one of its creature types that hasn’t been noted for Pax.
 1GW, Return a card imbuing Pax to its owner’s graveyard: Create an X/X green and white Incarnation creature token with trample, where X is the number of creature types noted for Pax. If the imbuing card had mana value 5 or greater, create another one of those tokens.                    </text>
       <related>Incarnation SEA</related>
+      <related count="2">Incarnation SEA</related>
     </card>
     <card>
       <name>Rush of Life</name>
@@ -2271,6 +2277,7 @@ At the beginning of your end step, you may pay {R/G} and sacrifice a land. If yo
       <text>When Axatos enters, create a Treasure token and a 1/1 colorless Construct Fish artifact creature token with first strike and “This token can’t block.”
 Each creature token you control gets +X/+X, where X is the number of noncreature tokens you control.           </text>
       <related>Treasure SEA</related>
+      <related>Construct Fish SEA</related>
     </card>
     <card>
       <name>Whalefall</name>
@@ -2685,6 +2692,7 @@ This creature enters with a shield counter on it. (If it would be dealt damage o
       <text>When this creature enters, create two 3/3 green Beast creature tokens and you gain 6 life.
 2G, Discard this card: Create a 3/3 green Beast creature token. You gain 3 life. Activate only as a sorcery.       </text>
       <related count="2">Beast SEA</related>
+      <related>Beast SEA</related>
     </card>
     <card>
       <name>Angler&apos;s Lure</name>
@@ -3213,6 +3221,7 @@ Tap six untapped Merfolk you control: This creature gets +6/+6 and gains indestr
       <text>Whenever a creature enters under your control, if it doesn’t share a creature type with another creature you control, you may create a Treasure token. Do this only once each turn.
 {T}, Sacrifice three Treasure tokens: Create a 3/3 green Beast creature token.  </text>
       <related>Treasure SEA</related>
+      <related>Beast SEA</related>
     </card>
     <card>
       <name>Aleza&apos;s Inspiration </name>
@@ -3272,6 +3281,7 @@ Draw a card.</text>
       <text>This spell costs {2} less to cast for each imbued permanent you control.
 Create a 1/1 colorless Shapeshifter creature token, a 3/3 green Beast creature token, and a 4/4 red Hellion creature token with haste.</text>
       <related>Shapeshifter SEA</related>
+      <related>Hellion SEA</related>
       <related>Beast SEA</related>
     </card>
     <card>
