@@ -1,0 +1,3 @@
+To install to Cockatrice:
+Cut and paste SEA.xml into your Cockatrice/data/customsets folder (will be wherever your Cockatrice is installed, can also access by clicking 'Card Database' tab -> 'Open custom sets folder')
+Cut and paste SEA folder (images) into your Cockatrice/data/pics/CUSTOM folder (will be wherever your Cockatrice is installed, can also access by clicking 'Card Database' tab -> 'Open custom image folder')

@@ -1,0 +1,3503 @@
+[CustomCards]
+	[	{
+			"name": "Daretti's Crewmate",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Daretti's Crewmate.png"
+			}
+		},
+		{
+			"name": "Benthic Probe",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Snake Construct ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Benthic Probe.png"
+			}
+		},
+		{
+			"name": "Seascout's Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascout's Wayfinder.png"
+			}
+		},
+		{
+			"name": "Morphic Glass",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Morphic Glass.png"
+			}
+		},
+		{
+			"name": "Heartmage's Conch",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Conch.png"
+			}
+		},
+		{
+			"name": "Blackwater Leech",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Leech ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blackwater Leech.png"
+			}
+		},
+		{
+			"name": "City Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Salamander Rogue ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/City Infiltrator.png"
+			}
+		},
+		{
+			"name": "Scavenging Scuttler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Crab ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Scavenging Scuttler.png"
+			}
+		},
+		{
+			"name": "Razortooth Corruptor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shark Warlock ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Razortooth Corruptor.png"
+			}
+		},
+		{
+			"name": "Undercity Junkpicker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Salamander Rogue ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Undercity Junkpicker.png"
+			}
+		},
+		{
+			"name": "Tangled Graftmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant Wizard Horror ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Tangled Graftmage.png"
+			}
+		},
+		{
+			"name": "Bonded Vellomancer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shark Leech Wizard ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bonded Vellomancer.png"
+			}
+		},
+		{
+			"name": "Kulteiv Rottender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kulteiv Rottender.png"
+			}
+		},
+		{
+			"name": "Blackwater Banehand",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Salamander Warlock ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blackwater Banehand.png"
+			}
+		},
+		{
+			"name": "Rising Deepfiend",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Nightmare Leviathan ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Rising Deepfiend.png"
+			}
+		},
+		{
+			"name": "Smell Blood",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Smell Blood.png"
+			}
+		},
+		{
+			"name": "Depth Crush",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Depth Crush.png"
+			}
+		},
+		{
+			"name": "Scrape the Muck",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Scrape the Muck.png"
+			}
+		},
+		{
+			"name": "Seascour Altar",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascour Altar.png"
+			}
+		},
+		{
+			"name": "Caught In The Act",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Caught In The Act.png"
+			}
+		},
+		{
+			"name": "Titans' Herald",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Whale Druid ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Titans' Herald.png"
+			}
+		},
+		{
+			"name": "Kelpstalker Seabear",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear Otter ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelpstalker Seabear.png"
+			}
+		},
+		{
+			"name": "Surfacing Rockwalla",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Surfacing Rockwalla.png"
+			}
+		},
+		{
+			"name": "Tidemalkin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat Fish ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Tidemalkin.png"
+			}
+		},
+		{
+			"name": "Kelp-Garden Warden",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant Warrior ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelp-Garden Warden.png"
+			}
+		},
+		{
+			"name": "Gruesome Landbeast",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Monkey ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Gruesome Landbeast.png"
+			}
+		},
+		{
+			"name": "Chimeric Enigma",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squid Crab Chimera  ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Chimeric Enigma.png"
+			}
+		},
+		{
+			"name": "Spawn of Onax",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental Octopus ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Spawn of Onax.png"
+			}
+		},
+		{
+			"name": "Capricrustacean",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Goat Lobster ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Capricrustacean.png"
+			}
+		},
+		{
+			"name": "Thrashing Crushjaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Crocodile ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Thrashing Crushjaw.png"
+			}
+		},
+		{
+			"name": "Lifecharged Leviathan",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Elemental Leviathan ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lifecharged Leviathan.png"
+			}
+		},
+		{
+			"name": "Prey Upon",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Prey Upon.png"
+			}
+		},
+		{
+			"name": "Primordial Power",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Primordial Power.png"
+			}
+		},
+		{
+			"name": "Kelptender's Rod",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelptender's Rod.png"
+			}
+		},
+		{
+			"name": "Symbiotic Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Symbiotic Shield.png"
+			}
+		},
+		{
+			"name": "Nourishing Currents",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Nourishing Currents.png"
+			}
+		},
+		{
+			"name": "Abyssal Stronghold",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Abyssal Stronghold.png"
+			}
+		},
+		{
+			"name": "Bloodfeaster Ambusher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Shark Berserker Rogue ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloodfeaster Ambusher.png"
+			}
+		},
+		{
+			"name": "Seascour Deepspeaker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Goblin Shark Shaman ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascour Deepspeaker.png"
+			}
+		},
+		{
+			"name": "Glittering Carp",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Treasure Fish ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Glittering Carp.png"
+			}
+		},
+		{
+			"name": "Ventfeeder",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Crab ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ventfeeder.png"
+			}
+		},
+		{
+			"name": "Wild Hellion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hellion ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Wild Hellion.png"
+			}
+		},
+		{
+			"name": "Seascour Channeler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Shark Shaman ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascour Channeler.png"
+			}
+		},
+		{
+			"name": "Rift of Power",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Rift of Power.png"
+			}
+		},
+		{
+			"name": "Daretti's Seascraper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Daretti's Seascraper.png"
+			}
+		},
+		{
+			"name": "Hoard Lurker",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Lobster Dragon ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Hoard Lurker.png"
+			}
+		},
+		{
+			"name": "Unleash the Devastators",
+			"rarity": "common",
+			"mana_cost": "{7}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Unleash the Devastators.png"
+			}
+		},
+		{
+			"name": "Magma Lance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Magma Lance.png"
+			}
+		},
+		{
+			"name": "Abyssal Lash",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Abyssal Lash.png"
+			}
+		},
+		{
+			"name": "Bloody Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloody Madness.png"
+			}
+		},
+		{
+			"name": "Sunken Treasure",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sunken Treasure.png"
+			}
+		},
+		{
+			"name": "Forked Bolt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Forked Bolt.png"
+			}
+		},
+		{
+			"name": "Scholar of the Abyss",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Scholar of the Abyss.png"
+			}
+		},
+		{
+			"name": "Amphin Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Salamander Rogue ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Amphin Pickpocket.png"
+			}
+		},
+		{
+			"name": "Lexos Coral",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wall ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lexos Coral.png"
+			}
+		},
+		{
+			"name": "Backstreets Sapper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Backstreets Sapper.png"
+			}
+		},
+		{
+			"name": "Rebel Geysermage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rebel Wizard ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Rebel Geysermage.png"
+			}
+		},
+		{
+			"name": "Pelathan Heartmage",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelathan Heartmage.png"
+			}
+		},
+		{
+			"name": "Breaching Loftwhale",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Whale ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Breaching Loftwhale.png"
+			}
+		},
+		{
+			"name": "Spellbender Krakedron",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Dragon Kraken ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Spellbender Krakedron.png"
+			}
+		},
+		{
+			"name": "Conjured Urchins",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Urchin Illusion ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Conjured Urchins.png"
+			}
+		},
+		{
+			"name": "Flowbend",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Flowbend.png"
+			}
+		},
+		{
+			"name": "Reshape Essence",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Reshape Essence.png"
+			}
+		},
+		{
+			"name": "Sinking Feeling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sinking Feeling.png"
+			}
+		},
+		{
+			"name": "Abyssal Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Abyssal Secrets.png"
+			}
+		},
+		{
+			"name": "Thirst For Power",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Thirst For Power.png"
+			}
+		},
+		{
+			"name": "Riptide Centurion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Merfolk Wizard Soldier ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Riptide Centurion.png"
+			}
+		},
+		{
+			"name": "Pelathan Shieldmate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelathan Shieldmate.png"
+			}
+		},
+		{
+			"name": "Palace Gardener",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Merfolk Citizen ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Palace Gardener.png"
+			}
+		},
+		{
+			"name": "Pufferwagg",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Brushwagg Fish ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pufferwagg.png"
+			}
+		},
+		{
+			"name": "Soaring Skyfin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fish ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Soaring Skyfin.png"
+			}
+		},
+		{
+			"name": "Ruins Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk Scout ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ruins Explorer.png"
+			}
+		},
+		{
+			"name": "Loyal Hippocamp",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Horse Fish ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Loyal Hippocamp.png"
+			}
+		},
+		{
+			"name": "Outskirts Bottomfeeder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Lobster ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Outskirts Bottomfeeder.png"
+			}
+		},
+		{
+			"name": "Flourishing Gastrobranchs",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Slug Beast ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Flourishing Gastrobranchs.png"
+			}
+		},
+		{
+			"name": "Pelathan Warbeasts",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Pangolin Seal Beast ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelathan Warbeasts.png"
+			}
+		},
+		{
+			"name": "Seaglow Marlin",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fish ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seaglow Marlin.png"
+			}
+		},
+		{
+			"name": "Underdog's Gambit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Underdog's Gambit.png"
+			}
+		},
+		{
+			"name": "Healer's Soulsponge",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit Sponge ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Healer's Soulsponge.png"
+			}
+		},
+		{
+			"name": "Blessing of Atlaenas",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blessing of Atlaenas.png"
+			}
+		},
+		{
+			"name": "Invigorating Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Invigorating Charge.png"
+			}
+		},
+		{
+			"name": "Commodify",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Commodify.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Island.png"
+			}
+		},
+		{
+			"name": "The Tidal Heart",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/The Tidal Heart.png"
+			}
+		},
+		{
+			"name": "Ingenuity, Daretti's Vessel",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ingenuity, Daretti's Vessel.png"
+			}
+		},
+		{
+			"name": "Mucros, the Originator",
+			"rarity": "mythic",
+			"mana_cost": "{8}{B}{B}",
+			"type": "Legendary Creature — Elder Crab  ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mucros, the Originator.png"
+			}
+		},
+		{
+			"name": "Painweaving",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Painweaving.png"
+			}
+		},
+		{
+			"name": "Call the Ancients",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Call the Ancients.png"
+			}
+		},
+		{
+			"name": "Ravager of the Reef",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Fish Hydra ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ravager of the Reef.png"
+			}
+		},
+		{
+			"name": "Daretti, Submersible Schemer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Goblin Artificer ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Daretti, Submersible Schemer.png"
+			}
+		},
+		{
+			"name": "Cataclysmic Eruption",
+			"rarity": "mythic",
+			"mana_cost": "{6}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Cataclysmic Eruption.png"
+			}
+		},
+		{
+			"name": "Bevaihn, High Flowmage",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Whale Wizard ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bevaihn, High Flowmage.png"
+			}
+		},
+		{
+			"name": "Mass Evolution",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mass Evolution.png"
+			}
+		},
+		{
+			"name": "Irdus Al, the White Whale",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Elder Whale ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Irdus Al, the White Whale.png"
+			}
+		},
+		{
+			"name": "Pterione, Caustic Radiance",
+			"rarity": "mythic",
+			"mana_cost": "{8}{W}{W}",
+			"type": "Legendary Creature — Angel Slug ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pterione, Caustic Radiance.png"
+			}
+		},
+		{
+			"name": "Atlaenas, Emperor of Pelath",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Merfolk Noble ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Atlaenas, Emperor of Pelath.png"
+			}
+		},
+		{
+			"name": "Channel the Depths",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Channel the Depths.png"
+			}
+		},
+		{
+			"name": "Lady Aleza Inchioso",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Planeswalker — Aleza ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lady Aleza Inchioso.png"
+			}
+		},
+		{
+			"name": "Bloodshed Razortooth",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{R}",
+			"type": "Legendary Creature — Shark Warlock ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloodshed Razortooth.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Plains.png"
+			}
+		},
+		{
+			"name": "Sunken Warform",
+			"rarity": "rare",
+			"mana_cost": "{16}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sunken Warform.png"
+			}
+		},
+		{
+			"name": "Shadowshroud Angler",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Fish Horror ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Shadowshroud Angler.png"
+			}
+		},
+		{
+			"name": "Diabolic Shoal",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Diabolic Shoal.png"
+			}
+		},
+		{
+			"name": "Baleful Battleaxe",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Baleful Battleaxe.png"
+			}
+		},
+		{
+			"name": "Bloodshed's Command",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloodshed's Command.png"
+			}
+		},
+		{
+			"name": "Gil and Rix, Pillaging Partners",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Shark Salamander Rogue ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Gil and Rix, Pillaging Partners.png"
+			}
+		},
+		{
+			"name": "Seascour Spawn",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Goblin Shark ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascour Spawn.png"
+			}
+		},
+		{
+			"name": "Deathkeeper, Moldermage",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Plant Wizard ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Deathkeeper, Moldermage.png"
+			}
+		},
+		{
+			"name": "Sealight Nymphs",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental Nymph ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sealight Nymphs.png"
+			}
+		},
+		{
+			"name": "Barbaric Shoal",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Barbaric Shoal.png"
+			}
+		},
+		{
+			"name": "Veskor, Terror of the Trench",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Serpent ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Veskor, Terror of the Trench.png"
+			}
+		},
+		{
+			"name": "Lifebringer, High Gardener",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Creature — Plant Druid ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lifebringer, High Gardener.png"
+			}
+		},
+		{
+			"name": "Pax, Intrepid Zoologist",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Merfolk Scout ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pax, Intrepid Zoologist.png"
+			}
+		},
+		{
+			"name": "Rush of Life",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Rush of Life.png"
+			}
+		},
+		{
+			"name": "Kulteiv Lifesigil",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kulteiv Lifesigil.png"
+			}
+		},
+		{
+			"name": "Volcazoa",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{1}{R}{R}",
+			"type": "Creature — Elemental Jellyfish ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Volcazoa.png"
+			}
+		},
+		{
+			"name": "Galvanic Shoal",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Galvanic Shoal.png"
+			}
+		},
+		{
+			"name": "Blood In The Water",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blood In The Water.png"
+			}
+		},
+		{
+			"name": "Volcanic Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Volcanic Vision.png"
+			}
+		},
+		{
+			"name": "Raging Whirlpool",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Raging Whirlpool.png"
+			}
+		},
+		{
+			"name": "Havok, the Hellraiser",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Shark Warrior ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Havok, the Hellraiser.png"
+			}
+		},
+		{
+			"name": "Molten Manifest",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Molten Manifest.png"
+			}
+		},
+		{
+			"name": "Bait",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "239",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bait.png"
+			}
+		},
+		{
+			"name": "Up",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "248",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Up.png"
+			}
+		},
+		{
+			"name": "Lost",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "245",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lost.png"
+			}
+		},
+		{
+			"name": "Duck",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "242",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Duck.png"
+			}
+		},
+		{
+			"name": "Time",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Time.png"
+			}
+		},
+		{
+			"name": "Body",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Body.png"
+			}
+		},
+		{
+			"name": "Forget",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "243",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Forget.png"
+			}
+		},
+		{
+			"name": "Seek",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seek.png"
+			}
+		},
+		{
+			"name": "High",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "244",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/High.png"
+			}
+		},
+		{
+			"name": "Bits",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bits.png"
+			}
+		},
+		{
+			"name": "Byillaimanos, Private Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Merfolk Detective ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Byillaimanos, Private Eye.png"
+			}
+		},
+		{
+			"name": "Mystic Shoal",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mystic Shoal.png"
+			}
+		},
+		{
+			"name": "Lord of Pelath",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lord of Pelath.png"
+			}
+		},
+		{
+			"name": "Raging Currents",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Raging Currents.png"
+			}
+		},
+		{
+			"name": "Undercity Cloakmage",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Rebel Wizard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Undercity Cloakmage.png"
+			}
+		},
+		{
+			"name": "Spawning Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Kraken ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Spawning Kraken.png"
+			}
+		},
+		{
+			"name": "Villorus, the Wandering Wind",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Bird ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Villorus, the Wandering Wind.png"
+			}
+		},
+		{
+			"name": "Monstrous Pelican",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Monstrous Pelican.png"
+			}
+		},
+		{
+			"name": "Harmonic Shoal",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Harmonic Shoal.png"
+			}
+		},
+		{
+			"name": "Heartguard's Pilgrimage",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartguard's Pilgrimage.png"
+			}
+		},
+		{
+			"name": "Ward of the Tides",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ward of the Tides.png"
+			}
+		},
+		{
+			"name": "Keeper of the Sacred Flow",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Whale Cleric ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Keeper of the Sacred Flow.png"
+			}
+		},
+		{
+			"name": "Vitalite Plating",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Vitalite Plating.png"
+			}
+		},
+		{
+			"name": "Aleza's Command",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Aleza's Command.png"
+			}
+		},
+		{
+			"name": "Baculetes, Dormant Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Elder Ape Leviathan ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Baculetes, Dormant Titan.png"
+			}
+		},
+		{
+			"name": "United Diversity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/United Diversity.png"
+			}
+		},
+		{
+			"name": "Pull from the Murk",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{B}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pull from the Murk.png"
+			}
+		},
+		{
+			"name": "Bloodfeaster Ireweaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{R}",
+			"type": "Creature — Shark Warlock ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloodfeaster Ireweaver.png"
+			}
+		},
+		{
+			"name": "Onax, Pyroclastic Fury",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}{G}",
+			"type": "Legendary Creature — Elder Elemental Octopus ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Onax, Pyroclastic Fury.png"
+			}
+		},
+		{
+			"name": "Axatos, Mantleforge Master",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{W}",
+			"type": "Legendary Creature — Merfolk Artificer ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Axatos, Mantleforge Master.png"
+			}
+		},
+		{
+			"name": "Whalefall",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Whalefall.png"
+			}
+		},
+		{
+			"name": "The Mirrorschool",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Fish Avatar ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/The Mirrorschool.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Swamp.png"
+			}
+		},
+		{
+			"name": "Tideweft Trident",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Enchantment Artifact — Equipment ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Tideweft Trident.png"
+			}
+		},
+		{
+			"name": "Stone of Clarity",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Stone of Clarity.png"
+			}
+		},
+		{
+			"name": "Iron Adaptive",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Iron Adaptive.png"
+			}
+		},
+		{
+			"name": "Primordial Starbomb",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Primordial Starbomb.png"
+			}
+		},
+		{
+			"name": "Expedition Pod",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Expedition Pod.png"
+			}
+		},
+		{
+			"name": "Corpsepicker Crab",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Crab ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Corpsepicker Crab.png"
+			}
+		},
+		{
+			"name": "Hellfang Lifedrinker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Hellion Leech ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Hellfang Lifedrinker.png"
+			}
+		},
+		{
+			"name": "Vampire Squid",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Squid ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Vampire Squid.png"
+			}
+		},
+		{
+			"name": "Underbelly Smuggler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Salamander Rogue ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Underbelly Smuggler.png"
+			}
+		},
+		{
+			"name": "Lyrux, Blackwater Muckwaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Salamander Warlock ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lyrux, Blackwater Muckwaker.png"
+			}
+		},
+		{
+			"name": "Scuttleswarm",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Scuttleswarm.png"
+			}
+		},
+		{
+			"name": "Titanwake Remora",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Leviathan Fish ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Titanwake Remora.png"
+			}
+		},
+		{
+			"name": "Sly Decrier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Merfolk Rebel Citizen ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sly Decrier.png"
+			}
+		},
+		{
+			"name": "Mortal Flicker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mortal Flicker.png"
+			}
+		},
+		{
+			"name": "Insidious Erasure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Insidious Erasure.png"
+			}
+		},
+		{
+			"name": "Slave to the Cause",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Slave to the Cause.png"
+			}
+		},
+		{
+			"name": "Kelpid",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Dog ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelpid.png"
+			}
+		},
+		{
+			"name": "Kulteiv Growthmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Wizard ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kulteiv Growthmage.png"
+			}
+		},
+		{
+			"name": "Celestial Glitterscale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Spirit Fish ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Celestial Glitterscale.png"
+			}
+		},
+		{
+			"name": "Chorithus, the Havenshell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Turtle ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Chorithus, the Havenshell.png"
+			}
+		},
+		{
+			"name": "Savage Smashing",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Savage Smashing.png"
+			}
+		},
+		{
+			"name": "Countershell Nautilus",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Nautilus Kraken ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Countershell Nautilus.png"
+			}
+		},
+		{
+			"name": "Gargant Starform",
+			"rarity": "uncommon",
+			"mana_cost": "{9}{G}",
+			"type": "Creature — Leviathan Starfish ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Gargant Starform.png"
+			}
+		},
+		{
+			"name": "Imposing Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Imposing Presence.png"
+			}
+		},
+		{
+			"name": "Progenitor Thrakkon",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{G}",
+			"type": "Creature — Beast Kraken Chimera ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Progenitor Thrakkon.png"
+			}
+		},
+		{
+			"name": "Angler's Lure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Angler's Lure.png"
+			}
+		},
+		{
+			"name": "Pyroclastic Seamount",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pyroclastic Seamount.png"
+			}
+		},
+		{
+			"name": "Unending Fathom",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Unending Fathom.png"
+			}
+		},
+		{
+			"name": "Pelath, Bastion of Order",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelath, Bastion of Order.png"
+			}
+		},
+		{
+			"name": "Razortooth Frontrunner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Shark Scout ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Razortooth Frontrunner.png"
+			}
+		},
+		{
+			"name": "Mantleforge Kiln",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mantleforge Kiln.png"
+			}
+		},
+		{
+			"name": "Seascour Summoner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Shark Sorcerer ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Seascour Summoner.png"
+			}
+		},
+		{
+			"name": "Bloodfeaster Linebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Shark Barbarian Knight ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bloodfeaster Linebreaker.png"
+			}
+		},
+		{
+			"name": "Magmatic Ragehorn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Elemental Ox ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Magmatic Ragehorn.png"
+			}
+		},
+		{
+			"name": "Mantlecharged Hellmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Elemental Hellion  ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mantlecharged Hellmaw.png"
+			}
+		},
+		{
+			"name": "Calufactumite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Insect ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Calufactumite.png"
+			}
+		},
+		{
+			"name": "Vent Frustrations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Vent Frustrations.png"
+			}
+		},
+		{
+			"name": "Blast Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blast Wave.png"
+			}
+		},
+		{
+			"name": "Fire Prophecy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Fire Prophecy.png"
+			}
+		},
+		{
+			"name": "Vaporize",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Vaporize.png"
+			}
+		},
+		{
+			"name": "Merfolk Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Merfolk Looter.png"
+			}
+		},
+		{
+			"name": "Forgetful Fish",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Fish Illusion ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Forgetful Fish.png"
+			}
+		},
+		{
+			"name": "Lexos Steward",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk Advisor ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lexos Steward.png"
+			}
+		},
+		{
+			"name": "Dogmatic Duplicate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Dogmatic Duplicate.png"
+			}
+		},
+		{
+			"name": "Stoneclaw Spellcutter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Lobster ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Stoneclaw Spellcutter.png"
+			}
+		},
+		{
+			"name": "Euphotic Wanderer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Merfolk ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Euphotic Wanderer.png"
+			}
+		},
+		{
+			"name": "Alezan Depthcrasher",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Leviathan Rebel ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Alezan Depthcrasher.png"
+			}
+		},
+		{
+			"name": "Shared Scrying",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Shared Scrying.png"
+			}
+		},
+		{
+			"name": "Spellswipe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Spellswipe.png"
+			}
+		},
+		{
+			"name": "Opt",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Opt.png"
+			}
+		},
+		{
+			"name": "Timepirate Telyx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Salamander Pirate ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Timepirate Telyx.png"
+			}
+		},
+		{
+			"name": "Found Family",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Found Family.png"
+			}
+		},
+		{
+			"name": "Laukus, Phalanx Drillmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Merfolk Soldier ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Laukus, Phalanx Drillmaster.png"
+			}
+		},
+		{
+			"name": "Amorphous Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Amorphous Aspirant.png"
+			}
+		},
+		{
+			"name": "Rescue Party",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Rescue Party.png"
+			}
+		},
+		{
+			"name": "Legion Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Merfolk Advisor ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Legion Overseer.png"
+			}
+		},
+		{
+			"name": "Glittering Glowray",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Fish ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Glittering Glowray.png"
+			}
+		},
+		{
+			"name": "Kelp-Garden Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Octopus ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelp-Garden Guardian.png"
+			}
+		},
+		{
+			"name": "Pelathan Phalanx",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelathan Phalanx.png"
+			}
+		},
+		{
+			"name": "Usurp",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Usurp.png"
+			}
+		},
+		{
+			"name": "Shelltower Beastmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk Citizen ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Shelltower Beastmaster.png"
+			}
+		},
+		{
+			"name": "Aleza's Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Aleza's Inspiration.png"
+			}
+		},
+		{
+			"name": "Heartpulse",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartpulse.png"
+			}
+		},
+		{
+			"name": "Chasm Expedition",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Chasm Expedition.png"
+			}
+		},
+		{
+			"name": "Call of the Heart",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Call of the Heart.png"
+			}
+		},
+		{
+			"name": "Sparks of Rebellion",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Sparks of Rebellion.png"
+			}
+		},
+		{
+			"name": "Heartmage's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Wrath.png"
+			}
+		},
+		{
+			"name": "Gluttonous Tilapian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Zombie Fish ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Gluttonous Tilapian.png"
+			}
+		},
+		{
+			"name": "Thunderous Archelon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}{U}",
+			"type": "Creature — Leviathan Turtle ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Thunderous Archelon.png"
+			}
+		},
+		{
+			"name": "Alinax, the Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Legendary Creature — Elemental ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Alinax, the Herald.png"
+			}
+		},
+		{
+			"name": "Warden of Atlaenas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Warden of Atlaenas.png"
+			}
+		},
+		{
+			"name": "Druid of the Cycle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Plant Druid ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Druid of the Cycle.png"
+			}
+		},
+		{
+			"name": "Visionary of Magma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}{R}",
+			"type": "Creature — Whale Sorcerer ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Visionary of Magma.png"
+			}
+		},
+		{
+			"name": "Blackwater Robber",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Salamander Rogue ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blackwater Robber.png"
+			}
+		},
+		{
+			"name": "Krunch, Razortooth Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Shark Berserker ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Krunch, Razortooth Brute.png"
+			}
+		},
+		{
+			"name": "Pelathan Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Merfolk Artificer ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pelathan Tinkerer.png"
+			}
+		},
+		{
+			"name": "Brilliant Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Wall ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Brilliant Bulwark.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Mountain.png"
+			}
+		},
+		{
+			"name": "Radiant Aquapolis",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Radiant Aquapolis.png"
+			}
+		},
+		{
+			"name": "Detrital Rotfield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Detrital Rotfield.png"
+			}
+		},
+		{
+			"name": "Turbulent Ripstream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Turbulent Ripstream.png"
+			}
+		},
+		{
+			"name": "The Heartshrine",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/The Heartshrine.png"
+			}
+		},
+		{
+			"name": "Kiora, One With The Sea",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Noble ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kiora, One With The Sea.png"
+			}
+		},
+		{
+			"name": "Utopian Coralscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Utopian Coralscape.png"
+			}
+		},
+		{
+			"name": "Volcanic Ridge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Volcanic Ridge.png"
+			}
+		},
+		{
+			"name": "Hadal Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Hadal Expanse.png"
+			}
+		},
+		{
+			"name": "Tenebrous Murk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Tenebrous Murk.png"
+			}
+		},
+		{
+			"name": "Bountiful Kelpgrove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Bountiful Kelpgrove.png"
+			}
+		},
+		{
+			"name": "Hydrothermal Trench",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Hydrothermal Trench.png"
+			}
+		},
+		{
+			"name": "Kalenos, Aleza's Faithful",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Merfolk Rebel Rogue ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kalenos, Aleza's Faithful.png"
+			}
+		},
+		{
+			"name": "Algaebloom Strangler",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Plant Hydra ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Algaebloom Strangler.png"
+			}
+		},
+		{
+			"name": "Swellflare Krill",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Shrimp ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Swellflare Krill.png"
+			}
+		},
+		{
+			"name": "Streetwise Stalking",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Streetwise Stalking.png"
+			}
+		},
+		{
+			"name": "Ingenious Scrapsmith",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Salamander Artificer ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ingenious Scrapsmith.png"
+			}
+		},
+		{
+			"name": "Transient Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Transient Surge.png"
+			}
+		},
+		{
+			"name": "Heartmage's Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Fury.png"
+			}
+		},
+		{
+			"name": "Break Into Pieces",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Break Into Pieces.png"
+			}
+		},
+		{
+			"name": "In A Single Bite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/In A Single Bite.png"
+			}
+		},
+		{
+			"name": "Blastfire Ritual",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Blastfire Ritual.png"
+			}
+		},
+		{
+			"name": "Krakenflash",
+			"rarity": "common",
+			"mana_cost": "{7}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Krakenflash.png"
+			}
+		},
+		{
+			"name": "Nullifying Wake",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Nullifying Wake.png"
+			}
+		},
+		{
+			"name": "Heartmage's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Will.png"
+			}
+		},
+		{
+			"name": "Atlaenas' Command",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Atlaenas' Command.png"
+			}
+		},
+		{
+			"name": "Smuggler's Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Smuggler's Signet.png"
+			}
+		},
+		{
+			"name": "Deadly Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Deadly Gambit.png"
+			}
+		},
+		{
+			"name": "Razortooth Deathjaw",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Zombie Shark Beserker ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Razortooth Deathjaw.png"
+			}
+		},
+		{
+			"name": "Pax's Surveyance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Pax's Surveyance.png"
+			}
+		},
+		{
+			"name": "Heartmage's Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Grace.png"
+			}
+		},
+		{
+			"name": "Channel Order",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Channel Order.png"
+			}
+		},
+		{
+			"name": "Breaching Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Breaching Strike.png"
+			}
+		},
+		{
+			"name": "Formless Shapemender",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Shapeshifter Cleric ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Formless Shapemender.png"
+			}
+		},
+		{
+			"name": "Slithering Seafloor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Sand Snake ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Slithering Seafloor.png"
+			}
+		},
+		{
+			"name": "Splendid Simulacrum",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Merfolk Golem ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Splendid Simulacrum.png"
+			}
+		},
+		{
+			"name": "Heartmage's Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Valor.png"
+			}
+		},
+		{
+			"name": "Regraft",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Regraft.png"
+			}
+		},
+		{
+			"name": "Drown Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Drown Memories.png"
+			}
+		},
+		{
+			"name": "Ancient Kelpback",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Turtle ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Ancient Kelpback.png"
+			}
+		},
+		{
+			"name": "Kelp-Garden's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kelp-Garden's Blessing.png"
+			}
+		},
+		{
+			"name": "Cycle of Regrowth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Cycle of Regrowth.png"
+			}
+		},
+		{
+			"name": "Heartmage's Vigor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Heartmage's Vigor.png"
+			}
+		},
+		{
+			"name": "Lifebringer's Command",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Lifebringer's Command.png"
+			}
+		},
+		{
+			"name": "Prestigious Jewelsmith",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Merfolk Artificer ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Prestigious Jewelsmith.png"
+			}
+		},
+		{
+			"name": "Cyloron, the Stingmass",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Jellyfish Kraken ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Cyloron, the Stingmass.png"
+			}
+		},
+		{
+			"name": "Daretti's Command",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Daretti's Command.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Copy.png"
+			}
+		},
+		{
+			"name": "Merfolk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Merfolk ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Merfolk.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Horror.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Elemental.png"
+			}
+		},
+		{
+			"name": "Hellion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hellion ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Hellion.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Beast.png"
+			}
+		},
+		{
+			"name": "Construct Fish",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct Fish ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Construct Fish.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Junk.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Treasure.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Crab.png"
+			}
+		},
+		{
+			"name": "Shapeshifter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Shapeshifter ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Shapeshifter.png"
+			}
+		},
+		{
+			"name": "Saproling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Saproling ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Saproling.png"
+			}
+		},
+		{
+			"name": "Kraken",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Kraken ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Kraken.png"
+			}
+		},
+		{
+			"name": "Incarnation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Incarnation ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/maguirechris/SeasOfSalinos/main/alpha3/Incarnation.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Channel the Depths
+		2 Sunken Warform
+		2 Shadowshroud Angler
+		2 Diabolic Shoal
+		2 Baleful Battleaxe
+		2 Bloodshed's Command
+		2 Gil and Rix, Pillaging Partners
+		2 Seascour Spawn
+		2 Deathkeeper, Moldermage
+		2 Sealight Nymphs
+		2 Barbaric Shoal
+		2 Veskor, Terror of the Trench
+		2 Lifebringer, High Gardener
+		2 Pax, Intrepid Zoologist
+		2 Rush of Life
+		2 Kulteiv Lifesigil
+		2 Volcazoa
+		2 Galvanic Shoal
+		2 Blood In The Water
+		2 Raging Whirlpool
+		2 Havok, the Hellraiser
+		2 Molten Manifest
+		2 Bait
+		2 Up
+		2 Lost
+		2 Duck
+		2 Time
+		2 Body
+		2 Forget
+		2 Seek
+		2 High
+		2 Bits
+		2 Byillaimanos, Private Eye
+		2 Mystic Shoal
+		2 Raging Currents
+		2 Undercity Cloakmage
+		2 Villorus, the Wandering Wind
+		2 Monstrous Pelican
+		2 Harmonic Shoal
+		2 Heartguard's Pilgrimage
+		2 Ward of the Tides
+		2 Keeper of the Sacred Flow
+		2 Vitalite Plating
+		2 Aleza's Command
+		2 Baculetes, Dormant Titan
+		2 United Diversity
+		2 Pull from the Murk
+		2 Bloodfeaster Ireweaver
+		2 Axatos, Mantleforge Master
+		2 Whalefall
+		2 The Mirrorschool
+		2 Pelath, Bastion of Order
+		2 Timepirate Telyx
+		2 Sparks of Rebellion
+		2 Kalenos, Aleza's Faithful
+		2 Ingenious Scrapsmith
+		2 Atlaenas' Command
+		2 Lifebringer's Command
+		2 Prestigious Jewelsmith
+		2 Cyloron, the Stingmass
+		2 Daretti's Command
+		1 The Tidal Heart
+		1 Ingenuity, Daretti's Vessel
+		1 Mucros, the Originator
+		1 Painweaving
+		1 Call the Ancients
+		1 Ravager of the Reef
+		1 Daretti, Submersible Schemer
+		1 Cataclysmic Eruption
+		1 Bevaihn, High Flowmage
+		1 Mass Evolution
+		1 Irdus Al, the White Whale
+		1 Pterione, Caustic Radiance
+		1 Atlaenas, Emperor of Pelath
+		1 Lady Aleza Inchioso
+		1 Bloodshed Razortooth
+		1 Onax, Pyroclastic Fury
+		1 Call of the Heart
+		1 The Heartshrine
+		1 Kiora, One With The Sea
+		[UncommonSlot(3)]
+	9 Tangled Graftmage
+		9 Kulteiv Rottender
+		9 Capricrustacean
+		9 Symbiotic Shield
+		9 Bloodfeaster Ambusher
+		9 Seascour Deepspeaker
+		9 Rift of Power
+		9 Daretti's Seascraper
+		9 Magma Lance
+		9 Bloody Madness
+		9 Sinking Feeling
+		9 Abyssal Secrets
+		9 Riptide Centurion
+		9 Pelathan Shieldmate
+		9 Blessing of Atlaenas
+		9 Volcanic Vision
+		9 Lord of Pelath
+		9 Spawning Kraken
+		9 Tideweft Trident
+		9 Stone of Clarity
+		9 Iron Adaptive
+		9 Primordial Starbomb
+		9 Expedition Pod
+		9 Corpsepicker Crab
+		9 Hellfang Lifedrinker
+		9 Underbelly Smuggler
+		9 Lyrux, Blackwater Muckwaker
+		9 Titanwake Remora
+		9 Sly Decrier
+		9 Mortal Flicker
+		9 Insidious Erasure
+		9 Slave to the Cause
+		9 Kelpid
+		9 Kulteiv Growthmage
+		9 Celestial Glitterscale
+		9 Chorithus, the Havenshell
+		9 Countershell Nautilus
+		9 Gargant Starform
+		9 Imposing Presence
+		9 Progenitor Thrakkon
+		9 Angler's Lure
+		9 Pyroclastic Seamount
+		9 Unending Fathom
+		9 Seascour Summoner
+		9 Bloodfeaster Linebreaker
+		9 Magmatic Ragehorn
+		9 Mantlecharged Hellmaw
+		9 Calufactumite
+		9 Vent Frustrations
+		9 Blast Wave
+		9 Vaporize
+		9 Merfolk Looter
+		9 Forgetful Fish
+		9 Lexos Steward
+		9 Dogmatic Duplicate
+		9 Stoneclaw Spellcutter
+		9 Alezan Depthcrasher
+		9 Shared Scrying
+		9 Spellswipe
+		9 Laukus, Phalanx Drillmaster
+		9 Amorphous Aspirant
+		9 Rescue Party
+		9 Legion Overseer
+		9 Glittering Glowray
+		9 Kelp-Garden Guardian
+		9 Pelathan Phalanx
+		9 Usurp
+		9 Shelltower Beastmaster
+		9 Aleza's Inspiration
+		9 Heartmage's Wrath
+		9 Gluttonous Tilapian
+		9 Thunderous Archelon
+		9 Alinax, the Herald
+		9 Warden of Atlaenas
+		9 Druid of the Cycle
+		9 Visionary of Magma
+		9 Blackwater Robber
+		9 Krunch, Razortooth Brute
+		9 Pelathan Tinkerer
+		9 Brilliant Bulwark
+		9 Algaebloom Strangler
+		9 Streetwise Stalking
+		9 Transient Surge
+		9 Heartmage's Fury
+		9 In A Single Bite
+		9 Nullifying Wake
+		9 Heartmage's Will
+		9 Smuggler's Signet
+		9 Deadly Gambit
+		9 Razortooth Deathjaw
+		9 Pax's Surveyance
+		9 Heartmage's Grace
+		9 Channel Order
+		9 Breaching Strike
+		9 Slithering Seafloor
+		9 Splendid Simulacrum
+		9 Heartmage's Valor
+		9 Regraft
+		9 Drown Memories
+		9 Ancient Kelpback
+		9 Kelp-Garden's Blessing
+		9 Cycle of Regrowth
+		9 Heartmage's Vigor
+		[CommonSlot(7)]
+	30 Daretti's Crewmate
+		30 Benthic Probe
+		30 Seascout's Wayfinder
+		30 Morphic Glass
+		30 Heartmage's Conch
+		30 Blackwater Leech
+		30 City Infiltrator
+		30 Scavenging Scuttler
+		30 Razortooth Corruptor
+		30 Undercity Junkpicker
+		30 Bonded Vellomancer
+		30 Blackwater Banehand
+		30 Rising Deepfiend
+		30 Smell Blood
+		30 Depth Crush
+		30 Scrape the Muck
+		30 Seascour Altar
+		30 Caught In The Act
+		30 Titans' Herald
+		30 Kelpstalker Seabear
+		30 Surfacing Rockwalla
+		30 Tidemalkin
+		30 Kelp-Garden Warden
+		30 Gruesome Landbeast
+		30 Chimeric Enigma
+		30 Spawn of Onax
+		30 Thrashing Crushjaw
+		30 Lifecharged Leviathan
+		30 Prey Upon
+		30 Primordial Power
+		30 Kelptender's Rod
+		30 Nourishing Currents
+		30 Glittering Carp
+		30 Ventfeeder
+		30 Wild Hellion
+		30 Seascour Channeler
+		30 Hoard Lurker
+		30 Unleash the Devastators
+		30 Abyssal Lash
+		30 Sunken Treasure
+		30 Forked Bolt
+		30 Scholar of the Abyss
+		30 Amphin Pickpocket
+		30 Lexos Coral
+		30 Backstreets Sapper
+		30 Rebel Geysermage
+		30 Pelathan Heartmage
+		30 Breaching Loftwhale
+		30 Spellbender Krakedron
+		30 Conjured Urchins
+		30 Flowbend
+		30 Reshape Essence
+		30 Thirst For Power
+		30 Palace Gardener
+		30 Pufferwagg
+		30 Soaring Skyfin
+		30 Ruins Explorer
+		30 Loyal Hippocamp
+		30 Outskirts Bottomfeeder
+		30 Flourishing Gastrobranchs
+		30 Pelathan Warbeasts
+		30 Seaglow Marlin
+		30 Underdog's Gambit
+		30 Healer's Soulsponge
+		30 Invigorating Charge
+		30 Commodify
+		30 Vampire Squid
+		30 Scuttleswarm
+		30 Savage Smashing
+		30 Razortooth Frontrunner
+		30 Mantleforge Kiln
+		30 Fire Prophecy
+		30 Euphotic Wanderer
+		30 Opt
+		30 Found Family
+		30 Heartpulse
+		30 Chasm Expedition
+		30 Swellflare Krill
+		30 Break Into Pieces
+		30 Blastfire Ritual
+		30 Krakenflash
+		30 Formless Shapemender
+		[WildcardSlot(2)]
+	10 Daretti's Crewmate
+	10 Benthic Probe
+	10 Seascout's Wayfinder
+	10 Morphic Glass
+	10 Heartmage's Conch
+	10 Blackwater Leech
+	10 City Infiltrator
+	10 Scavenging Scuttler
+	10 Razortooth Corruptor
+	10 Undercity Junkpicker
+	10 Tangled Graftmage
+	10 Bonded Vellomancer
+	10 Kulteiv Rottender
+	10 Blackwater Banehand
+	10 Rising Deepfiend
+	10 Smell Blood
+	10 Depth Crush
+	10 Scrape the Muck
+	10 Seascour Altar
+	10 Caught In The Act
+	10 Titans' Herald
+	10 Kelpstalker Seabear
+	10 Surfacing Rockwalla
+	10 Tidemalkin
+	10 Kelp-Garden Warden
+	10 Gruesome Landbeast
+	10 Chimeric Enigma
+	10 Spawn of Onax
+	10 Capricrustacean
+	10 Thrashing Crushjaw
+	10 Lifecharged Leviathan
+	10 Prey Upon
+	10 Primordial Power
+	10 Kelptender's Rod
+	10 Symbiotic Shield
+	10 Nourishing Currents
+	10 Bloodfeaster Ambusher
+	10 Seascour Deepspeaker
+	10 Glittering Carp
+	10 Ventfeeder
+	10 Wild Hellion
+	10 Seascour Channeler
+	10 Rift of Power
+	10 Daretti's Seascraper
+	10 Hoard Lurker
+	10 Unleash the Devastators
+	10 Magma Lance
+	10 Abyssal Lash
+	10 Bloody Madness
+	10 Sunken Treasure
+	10 Forked Bolt
+	10 Scholar of the Abyss
+	10 Amphin Pickpocket
+	10 Lexos Coral
+	10 Backstreets Sapper
+	10 Rebel Geysermage
+	10 Pelathan Heartmage
+	10 Breaching Loftwhale
+	10 Spellbender Krakedron
+	10 Conjured Urchins
+	10 Flowbend
+	10 Reshape Essence
+	10 Sinking Feeling
+	10 Abyssal Secrets
+	10 Thirst For Power
+	10 Riptide Centurion
+	10 Pelathan Shieldmate
+	10 Palace Gardener
+	10 Pufferwagg
+	10 Soaring Skyfin
+	10 Ruins Explorer
+	10 Loyal Hippocamp
+	10 Outskirts Bottomfeeder
+	10 Flourishing Gastrobranchs
+	10 Pelathan Warbeasts
+	10 Seaglow Marlin
+	10 Underdog's Gambit
+	10 Healer's Soulsponge
+	10 Blessing of Atlaenas
+	10 Invigorating Charge
+	10 Commodify
+	10 The Tidal Heart
+	10 Ingenuity, Daretti's Vessel
+	10 Mucros, the Originator
+	10 Painweaving
+	10 Call the Ancients
+	10 Ravager of the Reef
+	10 Daretti, Submersible Schemer
+	10 Cataclysmic Eruption
+	10 Bevaihn, High Flowmage
+	10 Mass Evolution
+	10 Irdus Al, the White Whale
+	10 Pterione, Caustic Radiance
+	10 Atlaenas, Emperor of Pelath
+	10 Channel the Depths
+	10 Lady Aleza Inchioso
+	10 Bloodshed Razortooth
+	10 Sunken Warform
+	10 Shadowshroud Angler
+	10 Diabolic Shoal
+	10 Baleful Battleaxe
+	10 Bloodshed's Command
+	10 Gil and Rix, Pillaging Partners
+	10 Seascour Spawn
+	10 Deathkeeper, Moldermage
+	10 Sealight Nymphs
+	10 Barbaric Shoal
+	10 Veskor, Terror of the Trench
+	10 Lifebringer, High Gardener
+	10 Pax, Intrepid Zoologist
+	10 Rush of Life
+	10 Kulteiv Lifesigil
+	10 Volcazoa
+	10 Galvanic Shoal
+	10 Blood In The Water
+	10 Volcanic Vision
+	10 Raging Whirlpool
+	10 Havok, the Hellraiser
+	10 Molten Manifest
+	10 Bait
+	10 Up
+	10 Lost
+	10 Duck
+	10 Time
+	10 Body
+	10 Forget
+	10 Seek
+	10 High
+	10 Bits
+	10 Byillaimanos, Private Eye
+	10 Mystic Shoal
+	10 Lord of Pelath
+	10 Raging Currents
+	10 Undercity Cloakmage
+	10 Spawning Kraken
+	10 Villorus, the Wandering Wind
+	10 Monstrous Pelican
+	10 Harmonic Shoal
+	10 Heartguard's Pilgrimage
+	10 Ward of the Tides
+	10 Keeper of the Sacred Flow
+	10 Vitalite Plating
+	10 Aleza's Command
+	10 Baculetes, Dormant Titan
+	10 United Diversity
+	10 Pull from the Murk
+	10 Bloodfeaster Ireweaver
+	10 Onax, Pyroclastic Fury
+	10 Axatos, Mantleforge Master
+	10 Whalefall
+	10 The Mirrorschool
+	10 Tideweft Trident
+	10 Stone of Clarity
+	10 Iron Adaptive
+	10 Primordial Starbomb
+	10 Expedition Pod
+	10 Corpsepicker Crab
+	10 Hellfang Lifedrinker
+	10 Vampire Squid
+	10 Underbelly Smuggler
+	10 Lyrux, Blackwater Muckwaker
+	10 Scuttleswarm
+	10 Titanwake Remora
+	10 Sly Decrier
+	10 Mortal Flicker
+	10 Insidious Erasure
+	10 Slave to the Cause
+	10 Kelpid
+	10 Kulteiv Growthmage
+	10 Celestial Glitterscale
+	10 Chorithus, the Havenshell
+	10 Savage Smashing
+	10 Countershell Nautilus
+	10 Gargant Starform
+	10 Imposing Presence
+	10 Progenitor Thrakkon
+	10 Angler's Lure
+	10 Pyroclastic Seamount
+	10 Unending Fathom
+	10 Pelath, Bastion of Order
+	10 Razortooth Frontrunner
+	10 Mantleforge Kiln
+	10 Seascour Summoner
+	10 Bloodfeaster Linebreaker
+	10 Magmatic Ragehorn
+	10 Mantlecharged Hellmaw
+	10 Calufactumite
+	10 Vent Frustrations
+	10 Blast Wave
+	10 Fire Prophecy
+	10 Vaporize
+	10 Merfolk Looter
+	10 Forgetful Fish
+	10 Lexos Steward
+	10 Dogmatic Duplicate
+	10 Stoneclaw Spellcutter
+	10 Euphotic Wanderer
+	10 Alezan Depthcrasher
+	10 Shared Scrying
+	10 Spellswipe
+	10 Opt
+	10 Timepirate Telyx
+	10 Found Family
+	10 Laukus, Phalanx Drillmaster
+	10 Amorphous Aspirant
+	10 Rescue Party
+	10 Legion Overseer
+	10 Glittering Glowray
+	10 Kelp-Garden Guardian
+	10 Pelathan Phalanx
+	10 Usurp
+	10 Shelltower Beastmaster
+	10 Aleza's Inspiration
+	10 Heartpulse
+	10 Chasm Expedition
+	10 Call of the Heart
+	10 Sparks of Rebellion
+	10 Heartmage's Wrath
+	10 Gluttonous Tilapian
+	10 Thunderous Archelon
+	10 Alinax, the Herald
+	10 Warden of Atlaenas
+	10 Druid of the Cycle
+	10 Visionary of Magma
+	10 Blackwater Robber
+	10 Krunch, Razortooth Brute
+	10 Pelathan Tinkerer
+	10 Brilliant Bulwark
+	10 The Heartshrine
+	10 Kiora, One With The Sea
+	10 Kalenos, Aleza's Faithful
+	10 Algaebloom Strangler
+	10 Swellflare Krill
+	10 Streetwise Stalking
+	10 Ingenious Scrapsmith
+	10 Transient Surge
+	10 Heartmage's Fury
+	10 Break Into Pieces
+	10 In A Single Bite
+	10 Blastfire Ritual
+	10 Krakenflash
+	10 Nullifying Wake
+	10 Heartmage's Will
+	10 Atlaenas' Command
+	10 Smuggler's Signet
+	10 Deadly Gambit
+	10 Razortooth Deathjaw
+	10 Pax's Surveyance
+	10 Heartmage's Grace
+	10 Channel Order
+	10 Breaching Strike
+	10 Formless Shapemender
+	10 Slithering Seafloor
+	10 Splendid Simulacrum
+	10 Heartmage's Valor
+	10 Regraft
+	10 Drown Memories
+	10 Ancient Kelpback
+	10 Kelp-Garden's Blessing
+	10 Cycle of Regrowth
+	10 Heartmage's Vigor
+	10 Lifebringer's Command
+	10 Prestigious Jewelsmith
+	10 Cyloron, the Stingmass
+	10 Daretti's Command
+	[LandSlot(1)]
+	10 Abyssal Stronghold
+		10 Forest
+		10 Island
+		10 Plains
+		10 Swamp
+		10 Mountain
+		10 Radiant Aquapolis
+		10 Detrital Rotfield
+		10 Turbulent Ripstream
+		10 Utopian Coralscape
+		10 Volcanic Ridge
+		10 Hadal Expanse
+		10 Tenebrous Murk
+		10 Bountiful Kelpgrove
+		10 Hydrothermal Trench
+		
